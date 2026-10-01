@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.env
+config.env
+secrets/
+credentials/
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
