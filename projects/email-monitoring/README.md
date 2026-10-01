@@ -2,35 +2,21 @@
 
 ## Portfolio Project
 
-A public portfolio presentation of an IT infrastructure project involving:
+A portfolio presentation of an internal IT infrastructure project involving **email storage monitoring, server monitoring, Telegram alerting, Home Assistant automation, remote access, and infrastructure architecture**.
 
-- Email storage monitoring
-- cPanel / email infrastructure integration
-- Python monitoring services
-- Telegram monitoring and alerting
-- Home Assistant automation
-- Remote PC control
-- Tailscale private networking
-- Infrastructure monitoring and system architecture
-
-> **Public portfolio note:** This repository is intended for portfolio presentation. Review every screenshot before publishing to ensure no confidential company information, credentials, internal addresses, tokens, or private user data are exposed.
-
----
+> **Public portfolio note:** The screenshots in this repository are sanitized for public publication. Internal email identities, domains, IP addresses, URLs, and operational details have been removed or obscured.
 
 ## What I Worked On
 
 ### 1. Email Storage Monitoring
-
 - Monitored mailbox storage usage and quota status.
 - Integrated cPanel UAPI as the email data source.
 - Built monitoring logic using Python on Ubuntu Server.
 - Implemented usage thresholds such as normal, warning, high, and critical.
-- Provided operational reports through Telegram.
+- Provided reporting and operational status through Telegram.
 
 ### 2. Telegram Monitoring Bot
-
 The monitoring bot provides operational commands such as:
-
 - `/fullreport`
 - `/mailbox`
 - `/top10`
@@ -41,10 +27,10 @@ The monitoring bot provides operational commands such as:
 - `/delivery`
 - `/errors`
 
+The public screenshots show the monitoring concept while removing internal identities and data.
+
 ### 3. Home Assistant & Remote PC Control
-
 Home Assistant was used as an automation interface for:
-
 - Wake-on-LAN
 - PC restart
 - PC shutdown
@@ -53,9 +39,7 @@ Home Assistant was used as an automation interface for:
 - Remote dashboard access
 
 ### 4. Infrastructure Architecture
-
-The project connected multiple components including:
-
+The project architecture connected multiple components including:
 - Ubuntu Server
 - Home Assistant
 - Python services
@@ -65,44 +49,38 @@ The project connected multiple components including:
 - Monitoring dashboard
 - API/backend services
 
----
-
 ## Technology Stack
 
 `Python` · `Ubuntu Server` · `cPanel UAPI` · `Telegram Bot API` · `Home Assistant` · `Tailscale` · `Linux` · `FastAPI` · `Docker` · `PowerShell`
 
----
+## Screenshots
 
-# Project Screenshots
-
-## Home Assistant — Power Control
-
+### Home Assistant — Power Control
 ![Home Assistant Power Control](screenshots/home-assistant-power-control.png)
 
-## Home Assistant — Activity
-
+### Home Assistant — Activity
 ![Home Assistant Activity](screenshots/home-assistant-activity.png)
 
-## Email Monitoring Dashboard
+### Telegram Monitoring Bot
+![Telegram Monitoring Bot](screenshots/telegram-monitor-menu.png)
 
-![Email Monitoring Dashboard](screenshots/email-monitoring-dashboard.png)
+### Telegram Storage Report
+![Telegram Storage Report](screenshots/telegram-storage-report.png)
 
-## System Architecture
-
+### System Architecture
 ![System Architecture](screenshots/system-architecture.png)
 
-## Full Infrastructure Flowchart
+### Email Monitoring Dashboard
+![Email Monitoring Dashboard](screenshots/email-monitoring-dashboard.png)
 
-![Email Monitoring Flowchart](screenshots/email-monitoring-flowchart.png)
+### Full Infrastructure Flowchart
+![Infrastructure Flowchart](screenshots/email-monitoring-flowchart.png)
 
----
-
-# My Role
+## My Role
 
 **IT Infrastructure & Network Support / System Monitoring**
 
 Key responsibilities demonstrated by this portfolio:
-
 - Infrastructure monitoring
 - Network and remote-access troubleshooting
 - Linux server administration
@@ -112,21 +90,8 @@ Key responsibilities demonstrated by this portfolio:
 - Home Assistant automation
 - Documentation and system architecture
 
----
+## Security
 
-# Security
+Do not publish production credentials, API tokens, passwords, VPN keys, private IP information, mailbox identities, or confidential company data.
 
-Do not publish:
-
-- Production credentials
-- API tokens
-- Telegram bot tokens
-- Passwords
-- VPN/private keys
-- Private SSH keys
-- Confidential mailbox identities
-- Internal-only IP addresses
-- Client credentials
-- Private configuration files
-
-Before making the repository public, inspect the screenshots and documentation for sensitive information.
+This portfolio package intentionally contains sanitized screenshots for public GitHub use.

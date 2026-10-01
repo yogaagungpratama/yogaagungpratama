@@ -1,11 +1,20 @@
 # Repository Structure
 
-This repository is designed as the profile portfolio for **Yoga Agung Pratama Putra** (`yogaagungpratama`).
+This repository contains a public portfolio presentation of the PPU Email Monitoring & Infrastructure Automation project.
 
-- `README.md` — Profile README shown on the GitHub profile
-- `projects/email-monitoring/` — cPanel email storage monitoring portfolio
-- `projects/infrastructure-monitoring/` — FastAPI infrastructure monitoring portfolio
-- `projects/remote-networking/` — Tailscale/RustDesk remote networking portfolio
-- `projects/home-assistant-automation/` — Home Assistant and Windows automation portfolio
-- `certifications/` — Certification information
-- `SECURITY.md` — Rules for keeping credentials and production secrets out of Git
+```text
+yogaagungpratama-ppu-portfolio/
+├── README.md
+├── screenshots/
+│   ├── home-assistant-power-control.png
+│   ├── home-assistant-activity.png
+│   ├── email-monitoring-dashboard.png
+│   ├── system-architecture.png
+│   └── email-monitoring-flowchart.png
+├── projects/
+│   └── email-monitoring/
+│       └── README.md
+└── docs/
+```
+
+The README image paths match the screenshot filenames exactly to prevent broken GitHub image links.

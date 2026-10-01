@@ -1,17 +1,18 @@
-# Security
+# Security Guidelines
 
-This portfolio intentionally excludes production credentials and sensitive infrastructure information.
+This is a public portfolio repository.
 
-Never publish:
+Never commit:
 
-- API tokens
-- Telegram bot tokens
 - Passwords
-- Private SSH keys
-- VPN authentication keys
-- Production IP addresses
-- Client credentials
+- API keys
+- Telegram bot tokens
+- VPN keys
+- SSH private keys
+- `.env` files
+- Production configuration files
+- Confidential company documents
 - Private mailbox information
-- Internal company configuration
+- Internal credentials
 
-Use sanitized examples and environment variables when publishing technical projects.
+Review screenshots before publication. If a screenshot contains sensitive operational information, replace it with a sanitized version.
