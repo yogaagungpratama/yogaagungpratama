@@ -1,0 +1,43 @@
+/* High contrast blue-white navigation and section labels. */
+.nav-inline a,
+.navlinks a,
+.language-toggle,
+.menu-toggle {
+  color: #eafaff;
+  -webkit-text-fill-color: #eafaff;
+  background: none;
+  background-clip: initial;
+  text-shadow: 0 0 8px rgba(69, 220, 255, 0.62);
+}
+
+.nav-inline a:hover,
+.navlinks a:hover,
+.navlinks a.active {
+  color: #69eaff;
+  -webkit-text-fill-color: #69eaff;
+  text-shadow: 0 0 11px rgba(69, 220, 255, 0.85);
+}
+
+.section-head h2,
+.market-home-title h2 {
+  color: #eafaff;
+  background: linear-gradient(100deg, #ffffff 0%, #eafaff 48%, #65e8ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 7px rgba(48, 201, 255, 0.45));
+}
+
+.section-head .eyebrow,
+.market-home-title .eyebrow,
+.news-category,
+.news-language {
+  color: #aeefff;
+  -webkit-text-fill-color: #aeefff;
+}
+
+.news-language.active,
+.news-language:hover {
+  color: #ffffff;
+  -webkit-text-fill-color: #ffffff;
+}
