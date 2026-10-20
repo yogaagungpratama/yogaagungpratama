@@ -1,87 +1,213 @@
 {
- "updated": "2026-10-20T00:06:53.381441+00:00",
+ "updated": "2026-10-20T05:06:44.264274+00:00",
  "source": "https://www.detik.com",
  "articles": [
   {
-   "title": "Ada Aksi Massa, Simak Rekayasa Lalin Kawasan Monas hingga DPR",
-   "url": "https://news.detik.com/berita/d-8714854/ada-aksi-massa-simak-rekayasa-lalin-kawasan-monas-hingga-dpr",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2022/12/23/ilustrasi-polisi-lalu-lintas-polantas_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T23:51:46+00:00",
+   "title": "Ustaz Khalid Basalamah Jadi Saksi Sidang Yaqut, Akui Setor USD 554 Ribu ke KPK",
+   "url": "https://news.detik.com/berita/d-8715254/ustaz-khalid-basalamah-jadi-saksi-sidang-yaqut-akui-setor-usd-554-ribu-ke-kpk",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/ustaz-khalid-basalamah-jadi-saksi-sidang-kasus-korupsi-kuota-haji-muliadetikcom-1792472564225_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T05:03:47+00:00",
    "category": "INDONESIA",
    "source": "detik.com",
-   "summary": "Polda Metro Jaya siapkan rekayasa lalu lintas untuk unjuk rasa di Monas dan DPR/MPR. Warga diminta memantau informasi lalu lintas dan mencari rute alternatif."
+   "summary": "Pemilik PT Zahra Oto Mandiri sekaligus Direktur Uhud Tour, Ustaz Khalid Basalamah, menjadi saksi dalam kasus dugaan korupsi kuota haji tambahan tahun 2023-2024."
+  },
+  {
+   "title": "Viral Ajudan Gubernur Kaltim Senggol Pendemo hingga Adu Mulut",
+   "url": "https://news.detik.com/berita/d-8715243/viral-ajudan-gubernur-kaltim-senggol-pendemo-hingga-adu-mulut",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/tangkapan-layar-ajudan-gubernur-kaltim-menyenggol-pendemo-dok-istimewa-1792469415881_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:56:09+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Video viral ajudan Gubernur Kaltim, Rudy Mas'ud, menyenggol demonstran GMNI. Pemprov Kaltim menjelaskan insiden saat Rudy menuju masjid untuk salat."
+  },
+  {
+   "title": "Seskab Beberkan Capaian Kerja 2 Tahun Pemerintahan Prabowo-Gibran",
+   "url": "https://news.detik.com/berita/d-8715238/seskab-beberkan-capaian-kerja-2-tahun-pemerintahan-prabowo-gibran",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2025/08/06/presiden-prabowo-subianto-dan-wapres-gibran-rakabuming-1754466953246_169.png?w=640&q=90",
+   "date": "2026-10-20T04:53:32+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Seskab Teddy memaparkan capaian dua tahun pemerintahan Prabowo-Gibran. Capaian itu mencakup sektor pangan, pendidikan, kesehatan, dan infrastruktur."
+  },
+  {
+   "title": "Bertambah, Total 10 Perusahaan Kena Peringatan Singapura gegara Karhutla di RI",
+   "url": "https://news.detik.com/internasional/d-8715221/bertambah-total-10-perusahaan-kena-peringatan-singapura-gegara-karhutla-di-ri",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/16/2299726619-1792127071926_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:46:27+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Singapura mengeluarkan pemberitahuan kepada tiga perusahaan lagi di Indonesia terkait karhutla di Kalimantan yang memicu kabut asap di Singapura."
+  },
+  {
+   "title": "Bertambah, Total 10 Perusahaan Kena Peringatan Singapura gegara Karhutla di RI",
+   "url": "https://news.detik.com/internasional/d-8715221/bertambah-total-10-perusahaan-kena-peringatan-singapura-gegara-karhutla-di-ri",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/16/2299726619-1792127071926_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:46:27+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Singapura mengeluarkan pemberitahuan kepada tiga perusahaan lagi di Indonesia terkait karhutla di Kalimantan yang memicu kabut asap di Singapura."
+  },
+  {
+   "title": "Iran Bahas Target Baru, Singgung 7 Kabel Internet Bawah Laut di Selat Hormuz",
+   "url": "https://news.detik.com/internasional/d-8715216/iran-bahas-target-baru-singgung-7-kabel-internet-bawah-laut-di-selat-hormuz",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/23/kapal-kapal-berlayar-di-selat-hormuz-terlihat-dari-wilayah-oman-1782207424573_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:44:51+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Garda Revolusi Iran mengatakan akan mengungkapkan target dan senjata baru, sembari menyinggung keberadaan kabel-kabel internet bawah laut di Selat Hormuz."
+  },
+  {
+   "title": "Iran Bahas Target Baru, Singgung 7 Kabel Internet Bawah Laut di Selat Hormuz",
+   "url": "https://news.detik.com/internasional/d-8715216/iran-bahas-target-baru-singgung-7-kabel-internet-bawah-laut-di-selat-hormuz",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/23/kapal-kapal-berlayar-di-selat-hormuz-terlihat-dari-wilayah-oman-1782207424573_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:44:51+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Garda Revolusi Iran mengatakan akan mengungkapkan target dan senjata baru, sembari menyinggung keberadaan kabel-kabel internet bawah laut di Selat Hormuz."
+  },
+  {
+   "title": "Polisi Tangkap 2 Pengedar Vape Narkoba, 858 Cartridge Isi Etomidate Disita",
+   "url": "https://news.detik.com/berita/d-8715213/polisi-tangkap-2-pengedar-vape-narkoba-858-cartridge-isi-etomidate-disita",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/858-catridge-vape-isi-etomidate-disita-pihak-kepolisian-1792471367892_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:43:13+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Polres Metro Jakarta Pusat menangkap dua pengedar narkoba di Kembangan. Sebanyak 858 kartrid vape berisi etomidate dan sabu disita."
+  },
+  {
+   "title": "Penampakan Mobil Listrik Ringsek Usai Tabrak Truk dan TransJ di Tol Ancol",
+   "url": "https://news.detik.com/berita/d-8715212/penampakan-mobil-listrik-ringsek-usai-tabrak-truk-dan-transj-di-tol-ancol",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/penampakan-mobil-listrik-ringsek-usai-tabrak-truk-dan-transj-di-tol-ancol-1792471341761_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:42:50+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Kecelakaan beruntun di Tol Wiyoto Wiyono melibatkan mobil Wuling Binguo EV, truk kontainer, dan bus Transjakarta. Pengemudi Wuling terluka parah."
+  },
+  {
+   "title": "Pembakar Warung Mi Babi di Sukoharjo Ditangkap, Ternyata Eks Napi Terorisme",
+   "url": "https://news.detik.com/berita/d-8715185/pembakar-warung-mi-babi-di-sukoharjo-ditangkap-ternyata-eks-napi-terorisme",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/polisi-saat-mengamankan-lokasi-di-desa-purbayan-kecamatan-baki-kabupaten-sukoharjo-senin-19102026-1792458304419_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:32:43+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Polisi menangkap pelaku pembakaran warung Mi dan Babi Tepi Sawah di Sukoharjo. Pelaku ternyata merupakan mantan napi terorisme."
+  },
+  {
+   "title": "Polda Riau Siaga Kawal Penyampaian Aspirasi, Utamakan Dialog",
+   "url": "https://news.detik.com/melindungi-tuah-marwah/d-8715177/polda-riau-siaga-kawal-penyampaian-aspirasi-utamakan-dialog",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/kapolda-riau-irjen-arman-achdiat-mengimbau-personel-mengedepankan-dialog-dalam-pengamanan-penyampaian-aspirasi-1792470625767_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:30:52+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Polda Riau siagakan personel untuk mengawal penyampaian aspirasi. Kapolda Irjen Arman Achdiat tekankan pendekatan humanis dan profesional dalam pengamanan."
+  },
+  {
+   "title": "Jepang Luncurkan Roket ke Mars, Bakal Ambil Sampel dari Phobos",
+   "url": "https://news.detik.com/internasional/d-8715167/jepang-luncurkan-roket-ke-mars-bakal-ambil-sampel-dari-phobos",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/spotnewsjapan-h3-rocket-launch-engine-shutdown-1792469983885_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:19:59+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Jepang meluncurkan roket yang membawa wahana antariksa untuk menjelajahi salah satu bulan Mars."
+  },
+  {
+   "title": "Jepang Luncurkan Roket ke Mars, Bakal Ambil Sampel dari Phobos",
+   "url": "https://news.detik.com/internasional/d-8715167/jepang-luncurkan-roket-ke-mars-bakal-ambil-sampel-dari-phobos",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/spotnewsjapan-h3-rocket-launch-engine-shutdown-1792469983885_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:19:59+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Jepang meluncurkan roket yang membawa wahana antariksa untuk menjelajahi salah satu bulan Mars."
+  },
+  {
+   "title": "Mengenal NbS, Program BOPPJ untuk Lindungi Pesisir Pantai Utara Jawa",
+   "url": "https://news.detik.com/berita/d-8715165/mengenal-nbs-program-boppj-untuk-lindungi-pesisir-pantai-utara-jawa",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/mengenal-nbs-program-boppj-untuk-lindungi-pesisir-pantai-utara-jawa-1792469872433_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:18:51+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Pemerintah bentuk BOPPJ untuk kelola pesisir Pantai Utara Jawa. Program Nature-Based Solution diharapkan pulihkan ekosistem dan stabilkan garis pantai."
+  },
+  {
+   "title": "Demo Rusuh di Prancis, Jam Malam Diberlakukan Lebih Luas",
+   "url": "https://news.detik.com/internasional/d-8715164/demo-rusuh-di-prancis-jam-malam-diberlakukan-lebih-luas",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/polisi-antihuru-hara-siaga-di-jalanan-prancis-usai-demo-memprotes-kenaikan-biaya-hidup-berujung-rusuh-1792469801698_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:17:53+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Jam malam yang sebelumnya hanya diberlakukan di area ibu kota Paris, kini juga diberlakukan di area Nice, Lyon, dan sebagian wilayah Gironde."
+  },
+  {
+   "title": "Demo Rusuh di Prancis, Jam Malam Diberlakukan Lebih Luas",
+   "url": "https://news.detik.com/internasional/d-8715164/demo-rusuh-di-prancis-jam-malam-diberlakukan-lebih-luas",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/polisi-antihuru-hara-siaga-di-jalanan-prancis-usai-demo-memprotes-kenaikan-biaya-hidup-berujung-rusuh-1792469801698_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:17:53+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Jam malam yang sebelumnya hanya diberlakukan di area ibu kota Paris, kini juga diberlakukan di area Nice, Lyon, dan sebagian wilayah Gironde."
+  },
+  {
+   "title": "Usai Bentangkan Spanduk, Greenpeace Mulai Turun dari Patung Bundaran HI",
+   "url": "https://news.detik.com/berita/d-8715162/usai-bentangkan-spanduk-greenpeace-mulai-turun-dari-patung-bundaran-hi",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/anggota-greenpeace-indonesia-mulai-turun-dari-patung-bundaran-hi-1792469802181_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:17:14+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Sejumla anggota Greenpeace Indonesia membentangkan spanduk di Bundaran HI, Jakarta. Mereka dievakuasi setelah terlihat lemas."
+  },
+  {
+   "title": "Pemkot Serang Uji Coba Bus Listrik, Target Beroperasi 2027",
+   "url": "https://news.detik.com/berita/d-8715150/pemkot-serang-uji-coba-bus-listrik-target-beroperasi-2027",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/pemkot-serang-uji-coba-bus-listrik-1792469453893_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:11:29+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Pemerintah Kota Serang menggelar uji coba penerapan bus listrik di wilayahnya. Layanan ini ditargetkan beroperasi pada 2027."
+  },
+  {
+   "title": "Jasad Wanita Ditemukan Membusuk di Kebun Jati Sukabumi, Diduga Dibunuh",
+   "url": "https://news.detik.com/berita/d-8715141/jasad-wanita-ditemukan-membusuk-di-kebun-jati-sukabumi-diduga-dibunuh",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/penangkapan-pelaku-pembunuh-rini-di-sukabumi-1792396562441_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T04:07:39+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Heboh seorang ibu rumah tangga (IRT) bernama Rini Ali Soraya (32) ditemukan membusuk di perkebunan jati wilayah Kampung Margaluyu, Kabupaten Sukabumi."
+  },
+  {
+   "title": "Viral Pasangan Enjoy Minum-minum di Tengah Paris yang Membara Akibat Ricuh",
+   "url": "https://news.detik.com/internasional/d-8715126/viral-pasangan-enjoy-minum-minum-di-tengah-paris-yang-membara-akibat-ricuh",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/pasangan-viral-enjoy-minum-minum-di-paris-saat-kericuhan-terjadi-reuters-1792468515819.png?w=640&q=90",
+   "date": "2026-10-20T03:56:45+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Video menunjukkan sepasang kekasih bersantai sambil menikmati minuman di dekat Arc de Triomphe, Paris, dengan latar kericuhan viral di media sosial."
+  },
+  {
+   "title": "Trump Bilang Paris Akan Jadi Kota Muslim Jika Prancis Tak Tutup Perbatasan",
+   "url": "https://news.detik.com/internasional/d-8715106/trump-bilang-paris-akan-jadi-kota-muslim-jika-prancis-tak-tutup-perbatasan",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/04/12/usa-trump-1775971438362_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T03:45:23+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Trump memperingatkan bahwa Paris, ibu kota Prancis, akan menjadi kota Muslim, jika Presiden Prancis Emmanuel Macron tidak menutup perbatasan."
+  },
+  {
+   "title": "Geger Diisukan Meninggal, Kim Jong Un Muncul di Pameran Fashion",
+   "url": "https://news.detik.com/internasional/d-8715021/geger-diisukan-meninggal-kim-jong-un-muncul-di-pameran-fashion",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/02/16/didampingi-putrinya-kim-jong-un-resmikan-perumahan-keluarga-tentara-gugur-di-pyongyang-1771196090270_169.jpeg?w=640&q=90",
+   "date": "2026-10-20T03:02:00+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Kim Jong-un muncul di publik usai dirumorkan terkait kematiannya. Ia tampak mengunjungi pameran fashion usai diisukan meninggal dunia akibat pendarahan otak."
   },
   {
    "title": "Yang Diketahui soal Demo Prancis Meluas ke Daratan Eropa Lain",
    "url": "https://news.detik.com/internasional/d-8714844/yang-diketahui-soal-demo-prancis-meluas-ke-daratan-eropa-lain",
    "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/aksi-protes-di-prancis-berbuntut-pembakaran-dan-penjarahan-lebih-dari-1200-orang-ditangkap-1792378241975_169.jpeg?w=640&q=90",
    "date": "2026-10-19T23:38:04+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Aksi unjuk rasa di Prancis meluas ke Eropa, menuntut penurunan biaya hidup. Bentrokan antara demonstran dan polisi terjadi di berbagai negara."
-  },
-  {
-   "title": "Yang Diketahui soal Demo Prancis Meluas ke Daratan Eropa Lain",
-   "url": "https://news.detik.com/internasional/d-8714844/yang-diketahui-soal-demo-prancis-meluas-ke-daratan-eropa-lain",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/aksi-protes-di-prancis-berbuntut-pembakaran-dan-penjarahan-lebih-dari-1200-orang-ditangkap-1792378241975_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T23:38:04+00:00",
    "category": "WORLD",
    "source": "detik.com",
    "summary": "Aksi unjuk rasa di Prancis meluas ke Eropa, menuntut penurunan biaya hidup. Bentrokan antara demonstran dan polisi terjadi di berbagai negara."
-  },
-  {
-   "title": "Legislator Minta Bekas Karhutla Ditanami Sawit Diusut: Cederai Hati Rakyat",
-   "url": "https://news.detik.com/berita/d-8714840/legislator-minta-bekas-karhutla-ditanami-sawit-diusut-cederai-hati-rakyat",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2017/05/12/046cbb5a-1e2a-4b94-9b4c-6feef61e39f0_169.jpg?w=640&q=90",
-   "date": "2026-10-19T23:20:10+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Legislator Daniel Johan mendesak penyelidikan atas penanaman sawit di lahan bekas karhutla di Dharmasraya. Ia mendorong pemulihan hutan dengan tanaman keras."
-  },
-  {
-   "title": "Provokasi Petasan Berujung Tawuran Membara di Manggarai",
-   "url": "https://news.detik.com/berita/d-8714837/provokasi-petasan-berujung-tawuran-membara-di-manggarai",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/kasus-tawuran-terjadi-di-dekat-stasiun-manggarai-tebet-jakarta-selatan-jaksel-kemarin-enam-orang-ditangkap-polisi-pada-minggu--1792386141554_169.webp?w=640&q=90",
-   "date": "2026-10-19T23:07:14+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Tawuran di Manggarai, Jaksel kembali pecah, menyebabkan pembakaran warung dan penjarahan konter pulsa. Polisi amankan enam pelaku dan bentuk posko bersama."
-  },
-  {
-   "title": "Waka DPRD DKI Minta PJJ dan WFH Dipertimbangkan Jika Kualitas Udara Bahaya",
-   "url": "https://news.detik.com/berita/d-8714836/waka-dprd-dki-minta-pjj-dan-wfh-dipertimbangkan-jika-kualitas-udara-bahaya",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/02/23/wakil-ketua-dprd-dki-jakarta-wibi-andrino-dokistimewa-1771829016297_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T22:56:22+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Waka DPRD DKI Wibi Andrino minta Pemprov pertimbangkan PJJ dan WFH jika kualitas udara membahayakan. Langkah konkret dan pemantauan real-time diperlukan."
-  },
-  {
-   "title": "Bobol Rumah Warga Pakai Linggis, Pemuda di Jakbar Ditangkap Polisi",
-   "url": "https://news.detik.com/berita/d-8714831/bobol-rumah-warga-pakai-linggis-pemuda-di-jakbar-ditangkap-polisi",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2015/11/20/ceaef288-b8cd-4a93-a5d1-95ac2ad7aa5a_169.jpg?w=640&q=90",
-   "date": "2026-10-19T21:41:45+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Polisi amankan pria berinisial R terkait pencurian di Jakarta Barat. Pelaku ditangkap saat mengisi bahan bakar, barang bukti juga disita."
-  },
-  {
-   "title": "Dentuman Misterius Gegerkan Warga di Bojonegoro-Madiun, BMKG Beri Penjelasan",
-   "url": "https://news.detik.com/berita/d-8714824/dentuman-misterius-gegerkan-warga-di-bojonegoro-madiun-bmkg-beri-penjelasan",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/dentuman-misterius-dan-kilatan-cahaya-gegerkan-warga-bojonegoro-1792374394537_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T20:03:58+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Suara dentuman misterius terdengar di Gunung Pandan, Bojonegoro. BMKG menyatakan penyebabnya perlu diverifikasi lebih lanjut."
-  },
-  {
-   "title": "Netanyahu Bilang Mau Bereskan 'Tugas' Bareng Trump Jika Menang Pemilu, Apa Itu?",
-   "url": "https://news.detik.com/internasional/d-8714820/netanyahu-bilang-mau-bereskan-tugas-bareng-trump-jika-menang-pemilu-apa-itu",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/20/netanyahu-dan-trump-saat-bertemu-di-mar-a-lago-di-florida-as-pada-desember-2025-1781941433824_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T19:13:45+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Donald Trump memberikan dukungan penuh kepada Benjamin Netanyahu menjelang pemilu Israel. Keduanya membahas kemungkinan serangan bersama terhadap Iran."
   },
   {
    "title": "Netanyahu Bilang Mau Bereskan 'Tugas' Bareng Trump Jika Menang Pemilu, Apa Itu?",
@@ -93,33 +219,6 @@
    "summary": "Donald Trump memberikan dukungan penuh kepada Benjamin Netanyahu menjelang pemilu Israel. Keduanya membahas kemungkinan serangan bersama terhadap Iran."
   },
   {
-   "title": "Hanura Kini Tak Mau Pusing soal Ambang Batas Parlemen, Mau Fokus Pemilu 2029",
-   "url": "https://news.detik.com/berita/d-8714818/hanura-kini-tak-mau-pusing-soal-ambang-batas-parlemen-mau-fokus-pemilu-2029",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/partai-hanura-fokus-persiapan-pemilu-2029-tidak-ingin-berlarut-larut-soal-ambang-batas-parlemen-dokistimewa-1792436744826_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T19:07:58+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Partai Hanura fokus persiapan Pemilu 2029, tidak ingin berlarut-larut soal ambang batas parlemen. Evaluasi pemilu sebelumnya jadi prioritas utama."
-  },
-  {
-   "title": "Gadis 17 Tahun Asal Bekasi Nekat Datangi Pacar di Bali, Ngakunya Nyari Kerja",
-   "url": "https://news.detik.com/berita/d-8714813/gadis-17-tahun-asal-bekasi-nekat-datangi-pacar-di-bali-ngakunya-nyari-kerja",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/polres-karangasem-menyerahkan-gadis-berusia-17-tahun-asal-bekasi-kepada-satpol-pp-karangasem-senin-19102026-foto-dok-polres-ka-1792404805020_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T18:07:33+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Seorang gadis 17 tahun dari Bekasi nekat pergi ke Bali untuk bertemu pacarnya yang dikenalnya lewat game online. Orang tuanya khawatir dan melapor ke polisi."
-  },
-  {
-   "title": "Panas Lagi! Ukraina Serang Mobil Jenazah, Rusia Balas Bombardir Taman",
-   "url": "https://news.detik.com/internasional/d-8714807/panas-lagi-ukraina-serang-mobil-jenazah-rusia-balas-bombardir-taman",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/29/apartemen-di-kharkiv-rusak-parah-dihantam-bom-rusia-1790659913247_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T17:18:27+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Konflik Rusia-Ukraina semakin memanas. Serangan Ukraina di Lugansk menewaskan tiga orang, sementara serangan drone Rusia di Kharkiv merenggut enam nyawa."
-  },
-  {
    "title": "Panas Lagi! Ukraina Serang Mobil Jenazah, Rusia Balas Bombardir Taman",
    "url": "https://news.detik.com/internasional/d-8714807/panas-lagi-ukraina-serang-mobil-jenazah-rusia-balas-bombardir-taman",
    "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/29/apartemen-di-kharkiv-rusak-parah-dihantam-bom-rusia-1790659913247_169.jpeg?w=640&q=90",
@@ -127,42 +226,6 @@
    "category": "WORLD",
    "source": "detik.com",
    "summary": "Konflik Rusia-Ukraina semakin memanas. Serangan Ukraina di Lugansk menewaskan tiga orang, sementara serangan drone Rusia di Kharkiv merenggut enam nyawa."
-  },
-  {
-   "title": "Golkar Yakin Program Pemerintah Tercapai di 2 Tahun Kepemimpinan Prabowo",
-   "url": "https://news.detik.com/berita/d-8714799/golkar-yakin-program-pemerintah-tercapai-di-2-tahun-kepemimpinan-prabowo",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/golkar-menilai-dua-tahun-kepemimpinan-prabowo-berhasil-berkat-kerja-sama-dwidetikcom-1792428836377_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T16:54:42+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Golkar menilai dua tahun kepemimpinan Prabowo berhasil berkat kerja sama. Ia menekankan pentingnya soliditas koalisi untuk kemajuan bangsa."
-  },
-  {
-   "title": "Kawasan Gunung Sumbing Wonosobo Kebakaran, 71 Pendaki Dievakuasi",
-   "url": "https://news.detik.com/berita/d-8714798/kawasan-gunung-sumbing-wonosobo-kebakaran-71-pendaki-dievakuasi",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/kebakaran-gunung-sumbing-1792421016113_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T16:54:13+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Kebakaran melanda kawasan Gunung Sumbing, memaksa 71 pendaki turun dengan selamat. Tim gabungan berupaya memadamkan api di lokasi yang berbahaya."
-  },
-  {
-   "title": "Pusat Bisnis dan Mal di Surabaya Sempat Gelap Gulita gegara Gangguan Listrik",
-   "url": "https://news.detik.com/berita/d-8714797/pusat-bisnis-dan-mal-di-surabaya-sempat-gelap-gulita-gegara-gangguan-listrik",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/situasi-ketika-pemadaman-listrik-terjadi-di-pusat-kota-surabaya-1792418678190_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T16:49:25+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Pemadaman listrik terjadi di pusat bisnis Surabaya akibat gangguan jaringan. PLN minta maaf dan sedang telusuri penyebabnya. Pasokan listrik kini normal."
-  },
-  {
-   "title": "Barang Jarahan Saat Rusuh Dijual Online, Prancis Minta Amazon-eBay Blokir",
-   "url": "https://news.detik.com/internasional/d-8714784/barang-jarahan-saat-rusuh-dijual-online-prancis-minta-amazon-ebay-blokir",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/18/kerusuhan-guncang-paris-warga-sebut-suasana-seperti-zona-perang-1792326433306_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T16:35:49+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Menteri Prancis mendesak platform online untuk menghapus penawaran barang curian dari kerusuhan. Lebih dari 3.000 bisnis mengalami kerusakan akibat demo."
   },
   {
    "title": "Barang Jarahan Saat Rusuh Dijual Online, Prancis Minta Amazon-eBay Blokir",
@@ -208,69 +271,6 @@
    "category": "WORLD",
    "source": "detik.com",
    "summary": "Singapura menanggapi pernyataan Bakom tentang oksigen dari hutan Indonesia. Menteri Shanmugam menilai pernyataan itu tidak tepat."
-  },
-  {
-   "title": "5 Berita Terpopuler Internasional Hari Ini",
-   "url": "https://news.detik.com/internasional/d-8714342/5-berita-terpopuler-internasional-hari-ini",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/18/kerusuhan-guncang-paris-warga-sebut-suasana-seperti-zona-perang-1792326433242_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T10:53:12+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Unjuk rasa memprotes meningkatnya biaya hidup di Prancis, meluas ke Italia, Belgia, Portugal, dan Albania. Iran memperingatkan AS untuk tidak salah perhitungan."
-  },
-  {
-   "title": "Menlu Rusia Kunjungi Iran, Upayakan Mediasi Konflik Timur Tengah",
-   "url": "https://news.detik.com/internasional/d-8714318/menlu-rusia-kunjungi-iran-upayakan-mediasi-konflik-timur-tengah",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2022/11/14/profil-sergei-lavrov-menlu-rusia-yang-diisukan-dilarikan-ke-rs_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T10:37:42+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Menlu Rusia, Sergei Lavrov, dijadwalkan berkunjung ke Iran pada Senin (19/10), dalam upaya Moskow memainkan peran sebagai penengah dalam konflik Timur Tengah."
-  },
-  {
-   "title": "Aktor Bollywood Selamat dari Penembakan di Mumbai, 3 Tersangka Ditangkap",
-   "url": "https://news.detik.com/internasional/d-8714271/aktor-bollywood-selamat-dari-penembakan-di-mumbai-3-tersangka-ditangkap",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/tiger-shroff-1792404544519_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T10:09:31+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Seorang aktor Bollywood, Tiger Shroff, selamat dari penembakan di area Mumbai pada Minggu (18/10) waktu setempat. Sedikitnya tiga tersangka telah ditangkap."
-  },
-  {
-   "title": "Dubes China Sesumbar Menang Mudah Lawan Manila, Filipina Meradang!",
-   "url": "https://news.detik.com/internasional/d-8714204/dubes-china-sesumbar-menang-mudah-lawan-manila-filipina-meradang",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/menlu-filipina-maria-theresa-lazaro-dan-dubes-china-jing-quan-1792403378491_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T09:52:17+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Filipina memanggil Dubes China, Jing Quan, untuk memprotes pernyataan kontroversialnya yang menyebut Beijing akan menang mudah dalam konflik melawan Manila."
-  },
-  {
-   "title": "Wali Kota Prancis Dipukuli di Tepi Barat, 10 Tersangka Ditangkap",
-   "url": "https://news.detik.com/internasional/d-8714146/wali-kota-prancis-dipukuli-di-tepi-barat-10-tersangka-ditangkap",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2025/07/28/pemukim-israel-melemparkan-batu-ke-arah-warga-palestina-di-desa-tepi-barat-1753695981705_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T09:26:44+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Kepolisian Israel menangkap 10 tersangka di Tepi Barat terkait serangan yang dilakukan oleh pemukim Yahudi terhadap fotografer AS dan Wali Kota asal Prancis."
-  },
-  {
-   "title": "Pangkalan Militer Kanada Dilanda Kebakaran, 4 Tentara Tewas-Puluhan Luka",
-   "url": "https://news.detik.com/internasional/d-8714074/pangkalan-militer-kanada-dilanda-kebakaran-4-tentara-tewas-puluhan-luka",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/bendera-kanada-dikibarkan-setengah-tiang-usai-kebakaran-maut-menewaskan-empat-tentara-di-pangkalan-militer-wainwright-1792400187448_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T08:56:57+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Sebuah kebakaran dahsyat melanda sebuah pangkalan militer Kanada di Provinsi Alberta. Sedikitnya empat tentara Kanada tewas dan puluhan orang lainnya luka-luka."
-  },
-  {
-   "title": "Serangan Israel Tewaskan 4 Warga Gaza, Termasuk Seorang Anak",
-   "url": "https://news.detik.com/internasional/d-8714050/serangan-israel-tewaskan-4-warga-gaza-termasuk-seorang-anak",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/19/ambulans-siaga-di-lokasi-serangan-israel-di-jalur-gaza-1787127575420_169.jpeg?w=640&q=90",
-   "date": "2026-10-19T08:51:38+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Serangan Israel menyebabkan empat warga Palestina, termasuk seorang anak, tewas di Gaza, Palestina. Serangan itu terjadi di berbagai wilayah di Gaza."
   }
  ]
 }
