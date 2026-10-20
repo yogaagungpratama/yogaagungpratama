@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Uses | Yoga Agung Pratama Putra</title>
+<meta name="description" content="The operating systems, tools and services I use for IT infrastructure, networking and automation work.">
+<style>
+:root{--bg:#080b16;--panel:#10182a;--ink:#f4f7ff;--muted:#98a7c2;--line:#25314b;--cyan:#63e9f5;--violet:#a68cff;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:inherit}
+.wrap{max-width:900px;margin:0 auto;padding:22px 20px 60px}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:34px}
+.back{color:var(--cyan);text-decoration:none;font-weight:700;font-size:14px}
+.tg{cursor:pointer;border:1px solid #a68cff66;border-radius:7px;background:#a68cff14;color:var(--violet);padding:8px 11px;font-size:12px;font-weight:800}
+.eyebrow{color:var(--violet);text-transform:uppercase;letter-spacing:.16em;font-size:11px;font-weight:850}
+h1{font-size:clamp(34px,6vw,52px);margin:6px 0 10px;line-height:1.1}
+.lead{color:var(--muted);max-width:640px;margin:0 0 34px}
+h2{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--cyan);margin:34px 0 12px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.card{border:1px solid var(--line);background:var(--panel);border-radius:16px;padding:18px 20px}
+.card h3{margin:0 0 4px;font-size:16px}.card p{margin:0;color:var(--muted);font-size:13.5px}
+.soon{border-style:dashed;color:var(--muted);font-size:13.5px}
+footer{margin-top:44px;color:var(--muted);font-size:13px}
+@media(max-width:700px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="bar"><a class="back" href="/yogaagungpratama/">&larr; <span data-en="Back to portfolio" data-id="Kembali ke portofolio">Back to portfolio</span></a>
+  <div><button class="tg" id="lang" type="button">ID</button></div></div>
+ <div class="eyebrow">/uses</div>
+ <h1 data-en="What I use." data-id="Yang saya pakai.">What I use.</h1>
+ <p class="lead" data-en="The systems, tools and services behind my infrastructure, networking and automation work." data-id="Sistem, tools dan layanan yang saya pakai untuk pekerjaan infrastruktur, jaringan dan otomasi.">The systems, tools and services behind my infrastructure, networking and automation work.</p>
+
+ <h2 data-en="Operating systems" data-id="Sistem operasi">Operating systems</h2>
+ <div class="grid">
+  <div class="card"><h3>Windows 11</h3><p data-en="Daily work, documentation, design and remote administration." data-id="Pekerjaan harian, dokumentasi, desain dan administrasi jarak jauh.">Daily work, documentation, design and remote administration.</p></div>
+  <div class="card"><h3>Ubuntu Server</h3><p data-en="Runs the monitoring services and automation scripts." data-id="Menjalankan layanan monitoring dan skrip otomasi.">Runs the monitoring services and automation scripts.</p></div>
+ </div>
+
+ <h2 data-en="Infrastructure &amp; networking" data-id="Infrastruktur &amp; jaringan">Infrastructure &amp; networking</h2>
+ <div class="grid">
+  <div class="card"><h3>MikroTik</h3><p data-en="Routing, switching and network troubleshooting (MTCNA certified)." data-id="Routing, switching dan troubleshooting jaringan (bersertifikat MTCNA).">Routing, switching and network troubleshooting (MTCNA certified).</p></div>
+  <div class="card"><h3>Tailscale</h3><p data-en="Private remote access to servers without exposing them to the internet." data-id="Akses jarak jauh privat ke server tanpa membukanya ke internet.">Private remote access to servers without exposing them to the internet.</p></div>
+  <div class="card"><h3>cPanel UAPI</h3><p data-en="Reading mailbox usage and quota from hosting servers." data-id="Membaca penggunaan dan kuota mailbox dari server hosting.">Reading mailbox usage and quota from hosting servers.</p></div>
+  <div class="card"><h3>Docker</h3><p data-en="Packaging and running services in containers." data-id="Mengemas dan menjalankan layanan dalam container.">Packaging and running services in containers.</p></div>
+ </div>
+
+ <h2 data-en="Development &amp; automation" data-id="Pengembangan &amp; otomasi">Development &amp; automation</h2>
+ <div class="grid">
+  <div class="card"><h3>Python &amp; FastAPI</h3><p data-en="Monitoring services, APIs and integrations." data-id="Layanan monitoring, API dan integrasi.">Monitoring services, APIs and integrations.</p></div>
+  <div class="card"><h3>PowerShell</h3><p data-en="Windows administration and small automation tasks." data-id="Administrasi Windows dan tugas otomasi kecil.">Windows administration and small automation tasks.</p></div>
+  <div class="card"><h3>Telegram Bot API</h3><p data-en="Scheduled reports and instant alerts." data-id="Laporan terjadwal dan peringatan langsung.">Scheduled reports and instant alerts.</p></div>
+  <div class="card"><h3>Home Assistant</h3><p data-en="Automation and remote device control." data-id="Otomasi dan kontrol perangkat jarak jauh.">Automation and remote device control.</p></div>
+  <div class="card"><h3>Git &amp; GitHub</h3><p data-en="Version control, project docs and this website (GitHub Pages)." data-id="Version control, dokumentasi proyek dan website ini (GitHub Pages).">Version control, project docs and this website (GitHub Pages).</p></div>
+ </div>
+
+ <h2 data-en="Home lab" data-id="Home lab">Home lab</h2><div class="grid"><div class="card" style="grid-column:1/-1"><h3 data-en="Ubuntu Server at home" data-id="Ubuntu Server di rumah">Ubuntu Server at home</h3><p data-en="My own server runs the email-monitoring service, Home Assistant and Docker containers. I reach it remotely through Tailscale, so nothing is exposed to the public internet. It is where I test automation before using it at work." data-id="Server pribadi saya menjalankan layanan email-monitoring, Home Assistant dan container Docker. Saya mengaksesnya lewat Tailscale sehingga tidak ada yang dibuka ke internet publik. Di sinilah saya menguji otomasi sebelum dipakai di pekerjaan.">My own server runs the email-monitoring service, Home Assistant and Docker containers. I reach it remotely through Tailscale, so nothing is exposed to the public internet. It is where I test automation before using it at work.</p></div></div><h2 data-en="Design &amp; documents" data-id="Desain &amp; dokumen">Design &amp; documents</h2>
+ <div class="grid">
+  <div class="card"><h3>Canva</h3><p data-en="CV and portfolio design." data-id="Desain CV dan portofolio.">CV and portfolio design.</p></div>
+  <div class="card soon" data-en="Hardware (laptop, monitor, peripherals) will be added here soon." data-id="Perangkat keras (laptop, monitor, periferal) akan segera ditambahkan di sini.">Hardware (laptop, monitor, peripherals) will be added here soon.</div>
+ </div>
+ <footer>&copy; Yoga Agung Pratama Putra</footer>
+</div>
+<script>
+(function(){
+var r=document.documentElement,l=document.getElementById('lang'),id=false;
+try{if(localStorage.getItem('portfolioLanguage')==='id')id=true}catch(e){}
+function apply(){r.lang=id?'id':'en';l.textContent=id?'EN':'ID';[].forEach.call(document.querySelectorAll('[data-en][data-id]'),function(e){e.textContent=id?e.dataset.id:e.dataset.en})}
+l.addEventListener('click',function(){id=!id;try{localStorage.setItem('portfolioLanguage',id?'id':'en')}catch(e){}apply()});
+apply();
+})();
+</script>
+</body>
+</html>

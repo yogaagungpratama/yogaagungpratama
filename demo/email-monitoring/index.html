@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Email Monitoring Demo | Yoga Agung Pratama Putra</title>
+<meta name="description" content="Interactive demo of the Email Monitoring & Infrastructure Automation project. All data on this page is fictional sample data.">
+<meta name="robots" content="noindex">
+<style>
+:root{--bg:#f4f7fc;--card:#fff;--ink:#14213d;--muted:#66758a;--line:#e3e9f3;--blue:#2f6df6;--green:#17a673;--amber:#f5b324;--orange:#f27a2c;--red:#e5484d;--navy:#0f1f3d}
+*{box-sizing:border-box;margin:0}
+body{font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);font-size:14px;line-height:1.45}
+a{color:inherit;text-decoration:none}
+.demo-bar{background:var(--navy);color:#dbe6ff;padding:9px 16px;display:flex;gap:12px;align-items:center;justify-content:center;flex-wrap:wrap;font-size:13px}
+.demo-bar b{background:#ffb020;color:#1b1400;padding:2px 8px;border-radius:99px;font-size:11px;letter-spacing:.06em}
+.demo-bar a{color:#7fd8ff;font-weight:700}
+.app{display:grid;grid-template-columns:230px 1fr;min-height:calc(100vh - 40px)}
+aside{background:#fff;border-right:1px solid var(--line);padding:18px 14px}
+.logo{display:flex;gap:10px;align-items:center;font-weight:800;margin-bottom:22px}
+.logo i{width:34px;height:34px;border-radius:9px;background:var(--blue);display:grid;place-items:center;color:#fff;font-style:normal}
+.logo small{display:block;font-weight:500;color:var(--muted);font-size:11px}
+.side-h{font-size:10.5px;letter-spacing:.09em;color:#98a3b5;margin:18px 8px 6px;font-weight:700}
+.side a{display:block;padding:9px 12px;border-radius:9px;color:#3b4a63;font-size:13.5px;cursor:default}
+.side a.on{background:var(--blue);color:#fff;font-weight:700}
+main{padding:22px 26px 40px;min-width:0}
+.top{display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap;margin-bottom:18px}
+h1{font-size:24px}.top p{color:var(--muted);font-size:13px}
+.status{display:flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);padding:8px 14px;border-radius:12px;font-size:12px;color:var(--muted)}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--green);box-shadow:0 0 0 4px #17a67322}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px}
+.kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:12px;margin-bottom:14px}
+.kpi{padding:14px 15px}
+.kpi small{color:var(--muted);font-size:12px}.kpi b{display:block;font-size:26px;margin:2px 0}
+.kpi span{font-size:11.5px;color:var(--muted)}
+.kpi.w b{color:#b7860b}.kpi.h b{color:var(--orange)}.kpi.c b{color:var(--red)}
+.grid{display:grid;grid-template-columns:1.05fr 1.35fr 1.1fr;gap:14px;margin-bottom:14px}
+h2{font-size:15.5px;margin-bottom:2px}.sub{color:var(--muted);font-size:12px;margin-bottom:14px}
+.donut-wrap{display:flex;align-items:center;gap:20px;flex-wrap:wrap}
+.legend div{display:flex;align-items:center;gap:8px;margin:7px 0;font-size:13px}
+.legend i{width:11px;height:11px;border-radius:50%}
+.legend b{margin-left:auto;padding-left:14px}
+.bar-row{display:grid;grid-template-columns:minmax(0,1.6fr) 2fr 42px;gap:10px;align-items:center;margin:9px 0;font-size:12.5px}
+.bar-row span:first-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.track{height:9px;background:#edf1f8;border-radius:9px;overflow:hidden}.fill{height:100%;border-radius:9px}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th{text-align:left;color:var(--muted);font-weight:600;padding:8px 6px;border-bottom:1px solid var(--line)}
+td{padding:9px 6px;border-bottom:1px solid #f0f3f9}
+.pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:11px;font-weight:700}
+.p-ok{background:#e2f7ee;color:#0e7a55}.p-warn{background:#fff3d1;color:#8a6200}.p-high{background:#ffe6d6;color:#b24a0c}.p-crit{background:#ffe0e1;color:#b3262b}.p-off{background:#ffe0e1;color:#b3262b}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.seg button{border:0;background:#fff;padding:7px 13px;font:inherit;font-size:12.5px;cursor:pointer;color:var(--muted)}
+.seg button.on{background:var(--blue);color:#fff;font-weight:700}
+.row{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:10px}
+.trend{display:grid;grid-template-columns:1fr 250px;gap:18px;align-items:center}
+.sumbox{background:#f4f8ff;border-radius:14px;padding:16px}
+.sumbox b{font-size:24px}.meter{height:9px;background:#dfe8f8;border-radius:9px;margin:10px 0;overflow:hidden}.meter i{display:block;height:100%;background:var(--blue)}
+input[type=search]{border:1px solid var(--line);border-radius:10px;padding:8px 12px;font:inherit;font-size:13px;min-width:200px}
+.flow{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-top:6px}
+.flow div{background:#f4f8ff;border:1px solid #dfe8f8;border-radius:12px;padding:12px;font-size:12.5px;position:relative}
+.flow b{display:block;font-size:13px;margin-bottom:3px}
+.tg{background:#f4f8ff;border-radius:12px;padding:12px 14px;margin-top:8px;font-size:12.5px;border-left:4px solid var(--blue)}
+.note{color:var(--muted);font-size:12px;text-align:center;margin-top:22px}
+@media(max-width:1100px){.kpis{grid-template-columns:repeat(3,1fr)}.grid{grid-template-columns:1fr}.flow{grid-template-columns:1fr 1fr}.trend{grid-template-columns:1fr}}
+@media(max-width:800px){.app{grid-template-columns:1fr}aside{display:none}main{padding:16px}.kpis{grid-template-columns:1fr 1fr}.flow{grid-template-columns:1fr}.bar-row{grid-template-columns:1fr 1.4fr 40px}}
+</style>
+</head>
+<body>
+<div class="demo-bar"><b>DEMO</b> This is an interactive demo with <strong>fictional sample data</strong>. No real company, mailbox or server data is shown.
+<a href="/yogaagungpratama/#proyek">&larr; Back to portfolio</a> <a href="https://github.com/yogaagungpratama/yogaagungpratama/tree/main/projects/email-monitoring" target="_blank" rel="noopener">Source &amp; docs &#8599;</a></div>
+<div class="app">
+<aside>
+ <div class="logo"><i>&#9993;</i><div>Demo Company<small>Email Monitoring</small></div></div>
+ <div class="side">
+  <a class="on">Dashboard</a>
+  <div class="side-h">MAILBOX MANAGEMENT</div><a>All mailboxes</a><a>Limited mailbox</a><a>Unlimited mailbox</a><a>Warning</a><a>High</a><a>Critical</a>
+  <div class="side-h">CPANEL MANAGEMENT</div><a>cPanel list</a><a>Connection status</a>
+  <div class="side-h">MONITORING</div><a>Storage history</a><a>Top storage usage</a><a>Audit / activity</a>
+  <div class="side-h">SETTINGS</div><a>Telegram notifications</a><a>Thresholds</a>
+ </div>
+</aside>
+<main>
+ <div class="top">
+  <div><h1>Email Monitoring</h1><p>Mailbox storage and quota monitoring across all cPanel sources</p></div>
+  <div class="status"><i class="dot"></i><div><b style="color:var(--green)">System online</b><br><span id="upd">Last update: sample data</span></div></div>
+ </div>
+
+ <div class="kpis" id="kpis"></div>
+
+ <div class="grid">
+  <div class="card"><h2>Mailbox status</h2><p class="sub">Distribution of mailbox storage status</p>
+   <div class="donut-wrap"><svg id="donut" width="170" height="170" viewBox="0 0 42 42" role="img" aria-label="Mailbox status chart"></svg><div class="legend" id="legend"></div></div></div>
+  <div class="card"><h2>Top 10 mailboxes by usage</h2><p class="sub">Highest storage consumption (sample accounts)</p><div id="top10"></div></div>
+  <div class="card"><h2>cPanel source status</h2><p class="sub">Connection state per server</p>
+   <table><thead><tr><th>Source</th><th>Status</th><th>Mailboxes</th><th>Updated</th></tr></thead><tbody id="sources"></tbody></table></div>
+ </div>
+
+ <div class="card" style="margin-bottom:14px">
+  <div class="row"><div><h2>Mailbox storage trend</h2><p class="sub" style="margin:0">Total storage used across all mailboxes</p></div>
+   <div class="seg" id="range"><button data-r="24">24 hours</button><button data-r="7" class="on">7 days</button><button data-r="30">30 days</button></div></div>
+  <div class="trend"><svg id="trend" viewBox="0 0 640 220" width="100%" role="img" aria-label="Storage trend chart"></svg>
+   <div class="sumbox"><small style="color:var(--muted)">Total storage used</small><br><b id="tot">1,245 GB</b> <span style="color:var(--muted)">of 2,450 GB</span>
+    <div class="meter"><i id="meter" style="width:50.8%"></i></div><div id="delta" style="color:var(--green);font-weight:700;font-size:12.5px"></div></div></div>
+ </div>
+
+ <div class="card" style="margin-bottom:14px">
+  <div class="row"><div><h2>Mailbox list</h2><p class="sub" style="margin:0">Filter by status or search (sample data)</p></div>
+   <div style="display:flex;gap:10px;flex-wrap:wrap"><input type="search" id="q" placeholder="Search mailbox&hellip;" aria-label="Search mailbox">
+   <div class="seg" id="flt"><button data-s="all" class="on">All</button><button data-s="warning">Warning</button><button data-s="high">High</button><button data-s="critical">Critical</button></div></div></div>
+  <div style="overflow-x:auto"><table><thead><tr><th>Mailbox</th><th>Source</th><th>Used</th><th>Quota</th><th>Usage</th><th>Status</th></tr></thead><tbody id="mb"></tbody></table></div>
+ </div>
+
+ <div class="card">
+  <h2>How it works</h2><p class="sub">The automation behind this dashboard (see the project documentation for details)</p>
+  <div class="flow">
+   <div><b>1. cPanel UAPI</b>Reads mailbox usage and quota from each cPanel server.</div>
+   <div><b>2. Python service</b>Runs on Ubuntu Server, collects and stores the data.</div>
+   <div><b>3. Status rules</b>Classifies each mailbox: normal, warning, high, critical.</div>
+   <div><b>4. Telegram bot</b>Sends scheduled reports and alert notifications.</div>
+   <div><b>5. Home Assistant</b>Automation hooks and device control; private access through Tailscale.</div>
+  </div>
+  <div class="tg"><b>Sample Telegram alert:</b> &#9888;&#65039; CRITICAL &ndash; support@demo-company.example is at 98% of its 5 GB quota (source: Main server). Please clean up or increase the quota.</div>
+ </div>
+ <p class="note">Demo built by Yoga Agung Pratama Putra &middot; All names, domains and numbers are fictional &middot; Real company data is not published.</p>
+</main>
+</div>
+<script>
+(function(){
+var $=function(id){return document.getElementById(id)};
+var SRC=[{n:'Main server',s:'online',m:87,u:'10:22'},{n:'Branch A',s:'online',m:64,u:'10:21'},{n:'Branch B',s:'online',m:58,u:'10:22'},{n:'Marketing',s:'online',m:41,u:'10:20'},{n:'Backup',s:'offline',m:0,u:'-'}];
+var NAMES=['support','hr','finance','admin','recruitment','operations','director','legal','sales','marketing','it-helpdesk','billing','info','procurement','training','careers','accounting','project','audit','customer-care'];
+var MB=[],i,seed=7;function rnd(){seed=(seed*9301+49297)%233280;return seed/233280}
+var forced={support:98,hr:95,finance:91,admin:89,recruitment:86,operations:82,director:78,legal:72,sales:69,marketing:66};
+NAMES.forEach(function(n,k){var q=[5,5,10,5,10,5,3,5,5,10][k%10];var pct=forced[n]!==undefined?forced[n]:Math.round(8+rnd()*58);MB.push({name:n+'@demo-company.example',src:SRC[k%4].n,quota:q,pct:pct,used:+(q*pct/100).toFixed(1)})});
+function st(p){return p>=95?'critical':p>=85?'high':p>=70?'warning':'normal'}
+MB.forEach(function(m){m.st=st(m.pct)});
+var C={normal:'#2f6df6',warning:'#f5b324',high:'#f27a2c',critical:'#e5484d'};
+var TOTAL=262,CNT={normal:250,warning:4,high:7,critical:1};
+function pill(s){var c={normal:'p-ok',warning:'p-warn',high:'p-high',critical:'p-crit'}[s];return '<span class="pill '+c+'">'+s[0].toUpperCase()+s.slice(1)+'</span>'}
+// KPIs
+$('kpis').innerHTML=[['Total mailboxes',TOTAL,'+12% vs last month',''],['Limited quota',180,'68.7% of total',''],['Unlimited',82,'31.3% of total',''],['Warning',4,'1.5% of total','w'],['High',7,'2.7% of total','h'],['Critical',1,'0.4% of total','c']].map(function(k){return '<div class="card kpi '+k[3]+'"><small>'+k[0]+'</small><b>'+k[1]+'</b><span>'+k[2]+'</span></div>'}).join('');
+// donut
+var circ=2*Math.PI*15.9155,off=0,h='<circle cx="21" cy="21" r="15.9155" fill="none" stroke="#edf1f8" stroke-width="6"/>';
+['normal','warning','high','critical'].forEach(function(k){var l=CNT[k]/TOTAL*circ;h+='<circle cx="21" cy="21" r="15.9155" fill="none" stroke="'+C[k]+'" stroke-width="6" stroke-dasharray="'+l+' '+(circ-l)+'" stroke-dashoffset="'+(-off)+'" transform="rotate(-90 21 21)"/>';off+=l});
+h+='<text x="21" y="21" text-anchor="middle" font-size="7" font-weight="800" fill="#14213d">'+TOTAL+'</text><text x="21" y="26" text-anchor="middle" font-size="2.6" fill="#66758a">Total mailboxes</text>';
+$('donut').innerHTML=h;
+$('legend').innerHTML=['normal','warning','high','critical'].map(function(k){return '<div><i style="background:'+C[k]+'"></i>'+k[0].toUpperCase()+k.slice(1)+'<b>'+CNT[k]+' ('+(CNT[k]/TOTAL*100).toFixed(1)+'%)</b></div>'}).join('');
+// top10
+$('top10').innerHTML=MB.slice().sort(function(a,b){return b.pct-a.pct}).slice(0,10).map(function(m){return '<div class="bar-row"><span title="'+m.name+'">'+m.name.replace('@demo-company.example','@demo')+'</span><div class="track"><div class="fill" style="width:'+m.pct+'%;background:'+C[m.st]+'"></div></div><b style="font-size:12px">'+m.pct+'%</b></div>'}).join('');
+// sources
+$('sources').innerHTML=SRC.map(function(s){return '<tr><td>'+s.n+'</td><td><span class="pill '+(s.s==='online'?'p-ok':'p-off')+'">'+s.s[0].toUpperCase()+s.s.slice(1)+'</span></td><td>'+s.m+'</td><td>'+s.u+'</td></tr>'}).join('');
+// trend
+var DATA={24:{l:['00','04','08','12','16','20','24'],v:[1196,1201,1210,1224,1233,1240,1245],d:'+0.4% vs yesterday'},7:{l:['17 Sep','18 Sep','19 Sep','20 Sep','21 Sep','22 Sep','23 Sep'],v:[1140,1168,1186,1205,1219,1233,1245],d:'+8.3% vs 7 days ago'},30:{l:['W1','W2','W3','W4','Now'],v:[980,1055,1120,1190,1245],d:'+27% vs 30 days ago'}};
+function draw(r){var d=DATA[r],W=640,H=220,pl=46,pr=14,pt=14,pb=28,mn=Math.min.apply(null,d.v)-60,mx=Math.max.apply(null,d.v)+60;
+ var X=function(i){return pl+i*(W-pl-pr)/(d.v.length-1)},Y=function(v){return pt+(mx-v)/(mx-mn)*(H-pt-pb)};
+ var g='',t;for(t=0;t<=4;t++){var v=mn+(mx-mn)*t/4,y=Y(v);g+='<line x1="'+pl+'" x2="'+(W-pr)+'" y1="'+y+'" y2="'+y+'" stroke="#e8edf6"/><text x="'+(pl-6)+'" y="'+(y+4)+'" text-anchor="end" font-size="10" fill="#66758a">'+Math.round(v)+'</text>'}
+ var p=d.v.map(function(v,i){return (i?'L':'M')+X(i)+' '+Y(v)}).join(' ');
+ g+='<path d="'+p+' L'+X(d.v.length-1)+' '+(H-pb)+' L'+X(0)+' '+(H-pb)+'Z" fill="#2f6df61f"/><path d="'+p+'" fill="none" stroke="#2f6df6" stroke-width="2.4"/>';
+ d.v.forEach(function(v,i){g+='<circle cx="'+X(i)+'" cy="'+Y(v)+'" r="3.6" fill="#2f6df6"/><text x="'+X(i)+'" y="'+(H-8)+'" text-anchor="middle" font-size="10" fill="#66758a">'+d.l[i]+'</text>'});
+ $('trend').innerHTML=g;$('delta').textContent='↑ '+d.d}
+draw(7);
+$('range').addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;[].forEach.call(this.children,function(x){x.classList.remove('on')});b.classList.add('on');draw(b.dataset.r)});
+// table
+var fs='all';function tbl(){var q=$('q').value.toLowerCase();$('mb').innerHTML=MB.filter(function(m){return (fs==='all'||m.st===fs)&&m.name.indexOf(q)>-1}).sort(function(a,b){return b.pct-a.pct}).map(function(m){return '<tr><td>'+m.name+'</td><td>'+m.src+'</td><td>'+m.used+' GB</td><td>'+m.quota+' GB</td><td style="min-width:120px"><div class="track"><div class="fill" style="width:'+m.pct+'%;background:'+C[m.st]+'"></div></div></td><td>'+pill(m.st)+'</td></tr>'}).join('')||'<tr><td colspan="6" style="color:var(--muted);padding:16px">No mailbox matches this filter.</td></tr>'}
+tbl();$('q').addEventListener('input',tbl);
+$('flt').addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;[].forEach.call(this.children,function(x){x.classList.remove('on')});b.classList.add('on');fs=b.dataset.s;tbl()});
+})();
+</script>
+</body>
+</html>
