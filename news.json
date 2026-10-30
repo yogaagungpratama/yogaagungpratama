@@ -1,141 +1,276 @@
 {
- "updated": "2026-10-30T00:06:06.251765+00:00",
+ "updated": "2026-10-30T06:12:48.791240+00:00",
  "source": "https://www.detik.com",
  "articles": [
   {
-   "title": "Terungkap Investor Asing Tersangka di Balik Perkara Karhutla",
-   "url": "https://news.detik.com/berita/d-8730400/terungkap-investor-asing-tersangka-di-balik-perkara-karhutla",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/polri-tetapkan-20-korporasi-jadi-tersangka-karhutla-1793249916653_169.jpeg?w=640&q=90",
-   "date": "2026-10-30T00:00:48+00:00",
+   "title": "KPK Panggil Adik Eks Kepala BNPB Terkait Kasus Korupsi Dana Bencana",
+   "url": "https://news.detik.com/berita/d-8730883/kpk-panggil-adik-eks-kepala-bnpb-terkait-kasus-korupsi-dana-bencana",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-3_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T06:03:50+00:00",
    "category": "INDONESIA",
    "source": "detik.com",
-   "summary": "Polri menetapkan 20 korporasi sebagai tersangka dalam kasus kebakaran hutan, termasuk 4 perusahaan asing. Proses hukum terus berlanjut."
+   "summary": "KPK memanggil adik mantan Kepala BNPB Suharyanto, Nera. Nera dipanggil untuk diperiksa menjadi saksi dalam kasus dugaan korupsi dana siap pakai di BNPB."
   },
   {
-   "title": "Persoalan Terkait Ijazah Wapres Gibran Kini Bergulir di PTUN",
-   "url": "https://news.detik.com/berita/d-8730395/persoalan-terkait-ijazah-wapres-gibran-kini-bergulir-di-ptun",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/sidang-gugatan-terkait-surat-penyetaraan-pendidikan-gibran-di-ptun-jakarta-devidetikcom-1793258026202_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T23:37:56+00:00",
+   "title": "Banjir Terjadi di Aceh dan Sumut, Ribuan Warga Terdampak",
+   "url": "https://news.detik.com/berita/d-8730881/banjir-terjadi-di-aceh-dan-sumut-ribuan-warga-terdampak",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/banjir-di-aceh-selatan-dok-bnpb-1793339668231_43.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:59:07+00:00",
    "category": "INDONESIA",
    "source": "detik.com",
-   "summary": "Urusan ijazah tingkat SMA Gibran belum juga tuntas. Usai ada putusan Mahkamah Konstitusi (MK), persoalan ijazah Gibran masih bergulir di PTUN Jakarta."
+   "summary": "BNPB melaporkan banjir terjadi di sejumlah kabupaten/kota di Aceh dan Sumatera Utara. Ada ribuan warga yang terdampak banjir tersebut."
+  },
+  {
+   "title": "Ketum PB ISSI Apresiasi Atlet Balap Sepeda RI Raih Perunggu di Asian Games",
+   "url": "https://news.detik.com/berita/d-8730880/ketum-pb-issi-apresiasi-atlet-balap-sepeda-ri-raih-perunggu-di-asian-games",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/jenderal-listyo-sigit-prabowo-memberikan-apresiasi-kepada-tiga-atlet-balap-sepeda-indonesia-yang-menorehkan-prestasi-pada-asia-1793339835593_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:58:12+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Jenderal Listyo Sigit Prabowo apresiasi tiga atlet balap sepeda Indonesia peraih medali perunggu di Asian Games 2026"
+  },
+  {
+   "title": "Sidang Perdana Korupsi Tambang Samin Tan Digelar 5 November",
+   "url": "https://news.detik.com/berita/d-8730847/sidang-perdana-korupsi-tambang-samin-tan-digelar-5-november",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/03/28/samin-tan-1774676402962_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:40:32+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Kejagung melimpahkan berkas perkara kasus korupsi pengelolaan tambang PT Asmin Koalindo Tuhup dengan tersangka Samin Tan. Sidang perdana digelar pekan depan."
+  },
+  {
+   "title": "Trump Pelajari Opsi Serangan Baru ke Iran, 10 Pesawat Militer AS Tiba di Israel",
+   "url": "https://news.detik.com/internasional/d-8730850/trump-pelajari-opsi-serangan-baru-ke-iran-10-pesawat-militer-as-tiba-di-israel",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/03/02/donald-trump-1772424445086_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:38:18+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Trump telah mendapatkan briefing mengenai opsi-opsi militer terhadap Iran, di tengah pertimbangan AS untuk melancarkan serangan baru berskala besar."
+  },
+  {
+   "title": "Trump Pelajari Opsi Serangan Baru ke Iran, 10 Pesawat Militer AS Tiba di Israel",
+   "url": "https://news.detik.com/internasional/d-8730850/trump-pelajari-opsi-serangan-baru-ke-iran-10-pesawat-militer-as-tiba-di-israel",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/03/02/donald-trump-1772424445086_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:38:18+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Trump telah mendapatkan briefing mengenai opsi-opsi militer terhadap Iran, di tengah pertimbangan AS untuk melancarkan serangan baru berskala besar."
+  },
+  {
+   "title": "Iran di Persimpangan Perang dan Damai Usai Diplomasi Aliansi Mekkah",
+   "url": "https://news.detik.com/dw/d-8730842/iran-di-persimpangan-perang-dan-damai-usai-diplomasi-aliansi-mekkah",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/aliansi-saudi-pakistan-dan-turki-datangi-iran-upaya-mencegah-perang-atau-peringatan-bagi-teheran-1793338534913.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:35:35+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Arab Saudi, Pakistan, dan Turki kirim utusan ke Iran demi meredakan ketegangan. Tapi kunjungan itu juga dianggap peringatan agar Teheran tak memperluas konflik."
+  },
+  {
+   "title": "Detik-detik Pengendara Motor Jatuh dari Flyover Pesing hingga Luka-luka",
+   "url": "https://news.detik.com/berita/d-8730840/detik-detik-pengendara-motor-jatuh-dari-flyover-pesing-hingga-luka-luka",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2022/05/04/ilustrasi-kecelakaan-tunggal-di-sanur_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:34:44+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Seorang pengendara motor, Cahyadi Ramadani, jatuh dari Flyover Pesing, Jakarta Barat, mengalami luka-luka. Korban dilarikan ke RSUD Cengkareng untuk perawatan."
+  },
+  {
+   "title": "Panja RUU Pemilu Konsinyering dengan KPU-Bawaslu Saat Reses, Ini yang Dibahas",
+   "url": "https://news.detik.com/berita/d-8730838/panja-ruu-pemilu-konsinyering-dengan-kpu-bawaslu-saat-reses-ini-yang-dibahas",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/01/19/waketum-partai-demokrat-dede-yusuf-dwidetikcom-1768819114399_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:33:19+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Panja RUU Pemilu menggelar konsinyering dengan KPU, Bawaslu, dan DKPP selama masa reses DPR. Sejumlah persoalan Pemilu dibahas selama konsinyering tersebut."
+  },
+  {
+   "title": "Koperasi Merah Putih Hadir, Warga Punya Pilihan Belanja Lebih Terjangkau",
+   "url": "https://news.detik.com/berita/d-8730837/koperasi-merah-putih-hadir-warga-punya-pilihan-belanja-lebih-terjangkau",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/ilustrasi-kopdes-merah-putih-1793338134190.png?w=640&q=90",
+   "date": "2026-10-30T05:29:20+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Koperasi Desa Merah Putih (KDKMP) menyediakan kebutuhan pokok terjangkau dan peluang pemasaran bagi UMKM. Dapatkan produk lokal dengan harga bersaing!"
+  },
+  {
+   "title": "13 WNA Diciduk di Apartemen Depok, Diduga Investor Fiktif hingga Overstay",
+   "url": "https://news.detik.com/berita/d-8730820/13-wna-diciduk-di-apartemen-depok-diduga-investor-fiktif-hingga-overstay",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/kantor-imigrasi-depok-mengamankan-13-wna-yang-diduga-investor-fiktif-hingga-overstay-1793337757264_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:24:14+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Imigrasi Depok amankan 13 WNA dalam operasi gabungan. Pelanggaran termasuk overstay dan penyalahgunaan izin tinggal. Pengawasan diperkuat untuk ketertiban."
+  },
+  {
+   "title": "PGI Dukung Langkah Polri Proses Hukum 20 Korporasi Tersangka Karhutla",
+   "url": "https://news.detik.com/berita/d-8730814/pgi-dukung-langkah-polri-proses-hukum-20-korporasi-tersangka-karhutla",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2025/02/18/ketua-umum-pgi-jacky-manuputty-dokistimewa_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:14:36+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "PGI dukung Polri tetapkan 20 korporasi tersangka karhutla. PGI mendorong penegakan hukum tegas dan pencegahan berkesinambungan."
+  },
+  {
+   "title": "209 Ribu Ton Batu Bara Kasus Samin Tan Dilelang Lagi, Laku Rp 264 Miliar",
+   "url": "https://news.detik.com/berita/d-8730810/209-ribu-ton-batu-bara-kasus-samin-tan-dilelang-lagi-laku-rp-264-miliar",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/aset-terkait-perkara-dugaan-korupsi-pengelolaan-pertambangan-pt-akt-sebanyak-209-ribu-ton-laku-terjual-usai-dilelang-kejagung--1793337088350_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:11:43+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "BPA Kejaksaan melelang 209 ribu ton batu bara milik Samin Tan senilai Rp 264 miliar. Lelang ini terkait dugaan korupsi pengelolaan pertambangan PT AKT."
+  },
+  {
+   "title": "Tanpa Mayoritas Parlemen, Fraksi Arab Berpeluang Tumbangkan Netanyahu?",
+   "url": "https://news.detik.com/dw/d-8730797/tanpa-mayoritas-parlemen-fraksi-arab-berpeluang-tumbangkan-netanyahu",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/tanpa-mayoritas-pemilu-fraksi-arab-berpeluang-tumbangkan-netanyahu-1793336712309.jpeg?w=640&q=90",
+   "date": "2026-10-30T05:05:12+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Tanpa adanya mayoritas di parlemen, blok politik utama Israel harus menjaring partai pembelot, atau membentuk koalisi bersejarah dengan partai-partai Arab."
+  },
+  {
+   "title": "Rizal Terdakwa Kasus Bea Cukai Bantah Terima Rp 14 M dari Bos Kargo",
+   "url": "https://news.detik.com/berita/d-8730782/rizal-terdakwa-kasus-bea-cukai-bantah-terima-rp-14-m-dari-bos-kargo",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/sidang-pledoi-mantan-direktur-penindakan-dan-penyidikan-pada-direktorat-jenderal-bea-cukai-rizal-muliadetikcom-1793336227229_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T04:57:17+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Mantan Direktur Penindakan dan Penyidikan pada Direktorat Jenderal Bea Cukai Rizal membantah menerima uang Rp 14 miliar dari Blueray Cargo"
+  },
+  {
+   "title": "2 Status Tersangka untuk Dedi Congor dari Polri dan KPK",
+   "url": "https://news.detik.com/berita/d-8730747/2-status-tersangka-untuk-dedi-congor-dari-polri-dan-kpk",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/05/08/pns-bea-cukai-ahmad-dedi-ad-lari-usai-diperiksa-kpk-demi-menghindari-wartawan-adrial-akbardetikcom-1778241473937_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T04:31:36+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "KPK telah menetapkan pegawai Ditjen Bea Cukai Kemenkeu, Ahmad Dedi (AD) atau Dedi Congor, sebagai tersangka."
+  },
+  {
+   "title": "Hasil Akhir Pemilu Israel: Netanyahu Unggul Tapi Gagal Raih Mayoritas Parlemen",
+   "url": "https://news.detik.com/internasional/d-8730716/hasil-akhir-pemilu-israel-netanyahu-unggul-tapi-gagal-raih-mayoritas-parlemen",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2024/03/18/pm-israel-benjamin-netanyahu_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T04:14:01+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Hasil akhir resmi dari pemilu Israel menyatakan koalisi Netanyahu unggul atas oposisi, namun gagal meraih mayoritas parlemen untuk bisa membentuk pemerintahan."
+  },
+  {
+   "title": "Heboh Anggota Parlemen Armenia Saling Adu Jotos, Dipicu Keluarga Diejek",
+   "url": "https://news.detik.com/internasional/d-8730578/heboh-anggota-parlemen-armenia-saling-adu-jotos-dipicu-keluarga-diejek",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2021/08/04/kekerasan-penganiayaan_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T03:03:04+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Sebuah perkelahian fisik terjadi di gedung parlemen Armenia setelah perdebatan sengit. Beberapa anggota terlibat, dengan ambulans dipanggil ke lokasi."
+  },
+  {
+   "title": "4 Kapal Tanker Terbakar Usai Tabrak Ranjau di Selat Hormuz",
+   "url": "https://news.detik.com/internasional/d-8730545/4-kapal-tanker-terbakar-usai-tabrak-ranjau-di-selat-hormuz",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/12/kapal-tanker-raksasa-kena-ranjau-laut-di-selat-hormuz-1791801833480_169.png?w=640&q=90",
+   "date": "2026-10-30T02:21:38+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Empat kapal tanker terbakar di Selat Hormuz setelah menabrak ranjau. Iran menantang klaim AS tentang pembersihan jalur utama dari ranjau."
+  },
+  {
+   "title": "Penyintas Tabrakan Maut 2 Kereta Cepat di Spanyol: Sangat Mengerikan!",
+   "url": "https://news.detik.com/internasional/d-8730475/penyintas-tabrakan-maut-2-kereta-cepat-di-spanyol-sangat-mengerikan",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/pasca-tabrakan-dua-kereta-cepat-di-spanyol-derek-dikerahkan-ke-lokasi-1793269425134_169.jpeg?w=640&q=90",
+   "date": "2026-10-30T01:27:00+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Tabrakan kereta cepat di Spanyol menewaskan 69 orang. Penumpang selamat, Sebastian Herrero, mengenang momen mengerikan saat kecelakaan terjadi."
+  },
+  {
+   "title": "Korban Tewas Serangan Rusia di Stasiun Kereta Ukraina Bertambah Jadi 14 Orang",
+   "url": "https://news.detik.com/internasional/d-8730445/korban-tewas-serangan-rusia-di-stasiun-kereta-ukraina-bertambah-jadi-14-orang",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/rusia-menghantam-peron-di-stasiun-kereta-utama-di-kota-dnipro-ukraina-tewaskan-13-orang-dok-aljazeera-1793277989158_169.webp?w=640&q=90",
+   "date": "2026-10-30T00:59:59+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Serangan drone Rusia di Dnipro menewaskan 14 orang, mengguncang Ukraina saat harapan gencatan senjata muncul. PM Ukraina mengecam tindakan teror ini."
   },
   {
    "title": "Horor Tabrakan 2 Kereta Cepat Spanyol dan Arahan Janggal Operator",
    "url": "https://news.detik.com/internasional/d-8730390/horor-tabrakan-2-kereta-cepat-spanyol-dan-arahan-janggal-operator",
    "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/28/tabrakan-kereta-cepat-di-spanyol-operasi-penyelamatan-berlangsung-1793194431733_169.jpeg?w=640&q=90",
    "date": "2026-10-29T23:12:10+00:00",
-   "category": "INDONESIA",
+   "category": "WORLD",
    "source": "detik.com",
    "summary": "Tabrakan dua kereta cepat di Spanyol menyebabkan 68 orang meninggal dunia. Ada perintah janggal operator di balik kecelakaan maut itu."
-  },
-  {
-   "title": "Pasca Tabrakan Dua Kereta Cepat di Spanyol, Derek Dikerahkan ke Lokasi",
-   "url": "https://news.detik.com/foto-news/d-8729862/pasca-tabrakan-dua-kereta-cepat-di-spanyol-derek-dikerahkan-ke-lokasi",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/pasca-tabrakan-dua-kereta-cepat-di-spanyol-derek-dikerahkan-ke-lokasi-1793269424988_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T23:00:39+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Derek dikerahkan di lokasi tabrakan dua kereta cepat dekat Toledo, Spanyol, untuk mendukung penanganan pascakecelakaan."
   },
   {
    "title": "Helikopter Pasukan Uni Eropa Jatuh di Bosnia, 4 Awak Tewas",
    "url": "https://news.detik.com/internasional/d-8730382/helikopter-pasukan-uni-eropa-jatuh-di-bosnia-4-awak-tewas",
    "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/31/ilustrasi-helikopter-chinook_169.jpeg?w=640&q=90",
    "date": "2026-10-29T21:48:47+00:00",
-   "category": "INDONESIA",
+   "category": "WORLD",
    "source": "detik.com",
    "summary": "Helikopter milik pasukan Uni Eropa jatuh di Bosnia, menewaskan 4 awak dan melukai 11 lainnya. Investigasi sedang dilakukan oleh EUFOR."
-  },
-  {
-   "title": "Gempa M 4,3 Guncang Gayo Lues Aceh",
-   "url": "https://news.detik.com/berita/d-8730371/gempa-m-4-3-guncang-gayo-lues-aceh",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/08/ilustrasi-gempa-1780909642348_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T20:14:25+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Gempa magnitudo 4,3 mengguncang Kabupaten Gayo Lues, Aceh, pada 30 Oktober 2026. Getaran dirasakan di Takengon dengan kedalaman 5 km."
   },
   {
    "title": "Koalisi Arab Saudi Jatuhkan Rudal Balistik Houthi Mengarah ke Riyadh",
    "url": "https://news.detik.com/internasional/d-8730366/koalisi-arab-saudi-jatuhkan-rudal-balistik-houthi-mengarah-ke-riyadh",
    "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/07/rudal-iran-1788757497772_169.png?w=640&q=90",
    "date": "2026-10-29T19:28:27+00:00",
-   "category": "INDONESIA",
+   "category": "WORLD",
    "source": "detik.com",
    "summary": "Koalisi Arab Saudi mencegat dua rudal balistik Houthi yang mengarah ke Riyadh. Serangan ini menargetkan fasilitas minyak dan lokasi sipil di Saudi."
-  },
-  {
-   "title": "Korsleting Listrik, Minibus di Tol Jagorawi Arah Bogor Kebakaran",
-   "url": "https://news.detik.com/berita/d-8730344/korsleting-listrik-minibus-di-tol-jagorawi-arah-bogor-kebakaran",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/kebakaran-melanda-sebuah-minibus-di-ruas-tol-jagorawi-km-33-bogor-jawa-barat-1793297702576_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T18:15:45+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Kebakaran minibus di Tol Jagorawi Km 33 diduga akibat korsleting listrik. Pengemudi dan penumpang selamat, sementara petugas pemadam berhasil memadamkan api."
   },
   {
    "title": "Longsor Picu Batu Raksasa di Cappadocia Turki Jatuh, 3 Orang Tewas",
    "url": "https://news.detik.com/internasional/d-8730331/longsor-picu-batu-raksasa-di-cappadocia-turki-jatuh-3-orang-tewas",
    "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/21/cappadocia-sedot-256-ribu-wisatawan-lewat-tur-balon-udara-1784625180628_169.jpeg?w=640&q=90",
    "date": "2026-10-29T17:28:20+00:00",
-   "category": "INDONESIA",
+   "category": "WORLD",
    "source": "detik.com",
    "summary": "Tanah longsor di Cappadocia, Turki, menyebabkan runtuhnya menara batu dan menewaskan tiga orang. Tim penyelamat masih mencari korban yang terjebak."
   },
   {
-   "title": "Kapolda Riau Instruksikan Kapolsek-Bhabin Aktif Turun Temui Masyarakat",
-   "url": "https://news.detik.com/melindungi-tuah-marwah/d-8730330/kapolda-riau-instruksikan-kapolsek-bhabin-aktif-turun-temui-masyarakat",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/kapolda-riau-irjen-arman-achdiat-meminta-kapolsek-dan-bhabinkamtibmas-aktif-turun-ke-lapangan-1793294775032_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T17:28:12+00:00",
-   "category": "INDONESIA",
+   "title": "Geram Sekutunya Kalah dari Lula da Silva, Trump Sebut Pemilu Brasil Memalukan",
+   "url": "https://news.detik.com/internasional/d-8730301/geram-sekutunya-kalah-dari-lula-da-silva-trump-sebut-pemilu-brasil-memalukan",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/06/trump-kembali-ke-andrews-usai-kampanye-di-nebraska-1791260239040_169.jpeg?w=640&q=90",
+   "date": "2026-10-29T15:32:30+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Kapolda Riau Irjen Arman Achdiat mengarahkan jajaran untuk mencegah karhutla dan meningkatkan pelayanan kepada masyarakat."
+   "summary": "Donald Trump melontarkan kritik terhadap pemilihan umum (pemilu) di Brasil usai sekutunya, Flavio Bolsonaro, kalah. Trump mengatakan pemilu Brasil memalukan."
   },
   {
-   "title": "Akal-akalan Dwi Bagus Buat Laporan Istri dan Anak Hilang Padahal Dibunuh",
-   "url": "https://news.detik.com/berita/d-8730322/akal-akalan-dwi-bagus-buat-laporan-istri-dan-anak-hilang-padahal-dibunuh",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/dwi-bagus-kanan-pakai-topi-saat-membuat-laporan-kehilangan-dini-yang-sudah-dibunuhnya-1793244366962_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T16:52:51+00:00",
-   "category": "INDONESIA",
+   "title": "Kala Rudal Meluncur dari Korut yang Sempat Tak Dikenali",
+   "url": "https://news.detik.com/internasional/d-8730144/kala-rudal-meluncur-dari-korut-yang-sempat-tak-dikenali",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2024/05/31/penampakan-rentetan-rudal-balistik-korut-yang-dikecam-korsel-jepang-2_169.jpeg?w=640&q=90",
+   "date": "2026-10-29T13:12:24+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Saat membuat laporan, dia didampingi adik korban. Petugas SPKT Polres Madiun Kota juga mengabadikan momen tersebut dalam sebuah foto bersama."
+   "summary": "Korea Utara meluncurkan belasan rudal balistik ke Laut Timur, meningkatkan ketegangan di Semenanjung Korea. Korsel meningkatkan kewaspadaan."
   },
   {
-   "title": "Seskab: 2 Tahun Pemerintahan Prabowo Bukan Sekadar Rencana, tapi Kerja Nyata",
-   "url": "https://news.detik.com/berita/d-8730321/seskab-2-tahun-pemerintahan-prabowo-bukan-sekadar-rencana-tapi-kerja-nyata",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/04/11/seskab-teddy-indra-wijaya-1775886614796_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T16:52:13+00:00",
-   "category": "INDONESIA",
+   "title": "Drone Rusia Hantam Peron Stasiun Kereta di Ukraina, 13 Orang Tewas",
+   "url": "https://news.detik.com/internasional/d-8730121/drone-rusia-hantam-peron-stasiun-kereta-di-ukraina-13-orang-tewas",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/rusia-menghantam-peron-di-stasiun-kereta-utama-di-kota-dnipro-ukraina-tewaskan-13-orang-dok-aljazeera-1793277989158_169.webp?w=640&q=90",
+   "date": "2026-10-29T12:46:51+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Seskab Teddy Indra Wijaya menegaskan dua tahun pemerintahan Prabowo Subianto fokus pada kerja nyata, dengan berbagai program pembangunan berdampak langsung."
+   "summary": "Serangan drone Rusia di Dnipro menewaskan 13 orang dan melukai lima lainnya. Serangan juga terjadi di Kharkiv dan wilayah lain, menambah ketegangan konflik."
   },
   {
-   "title": "Wantimpres Matangkan Penyusunan Pertimbangan Perdana kepada Presiden",
-   "url": "https://news.detik.com/berita/d-8730316/wantimpres-matangkan-penyusunan-pertimbangan-perdana-kepada-presiden",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/dewan-pertimbangan-presiden-republik-indonesia-wantimpres-ri-mulai-menyusun-pertimbangan-perdana-kepada-presiden-prabowo-subia-1793291718056_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T16:36:00+00:00",
-   "category": "INDONESIA",
+   "title": "5 Berita Terpopuler Internasional Hari Ini",
+   "url": "https://news.detik.com/internasional/d-8729929/5-berita-terpopuler-internasional-hari-ini",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/19/tahta-messi-runtuh-mbappe-resmi-jadi-raja-gol-baru-piala-dunia-1784428832894_169.jpeg?w=640&q=90",
+   "date": "2026-10-29T11:05:49+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Dewan Pertimbangan Presiden mulai menyusun pertimbangan untuk Presiden Prabowo. Rapat pleno membahas isu strategis di bidang politik, sosial, dan ekonomi."
+   "summary": "Politikus Prancis membela Mbappe yang menyebut Mao Zedong diktator'. Arab Saudi menawarkan US$ 1 miliar (Rp 18 triliun) ke Houthi untuk gencatan senjata."
   },
   {
-   "title": "Baru 2 Bulan Bebas, Residivis Kasus Pembunuhan di Boyolali Tusuk Pemotor",
-   "url": "https://news.detik.com/berita/d-8730314/baru-2-bulan-bebas-residivis-kasus-pembunuhan-di-boyolali-tusuk-pemotor",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2024/03/08/ilustrasi-pisau_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T15:58:33+00:00",
-   "category": "INDONESIA",
+   "title": "Ingin Negosiasi Damai Lagi, Wapres AS Kontak Pejabat Iran",
+   "url": "https://news.detik.com/internasional/d-8729895/ingin-negosiasi-damai-lagi-wapres-as-kontak-pejabat-iran",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2025/10/31/wapres-as-jd-vance-1761903797244_169.jpeg?w=640&q=90",
+   "date": "2026-10-29T10:40:59+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Pria residivis BAP (30) di Boyolali ditangkap lagi setelah meakukan penusukan ke pemotor. BAP merupakan residivis pembunuhan."
-  },
-  {
-   "title": "Selain PT Djarum, KPK Geledah Sejumlah Lokasi di Kudus Terkait Kasus Bea Cukai",
-   "url": "https://news.detik.com/berita/d-8730311/selain-pt-djarum-kpk-geledah-sejumlah-lokasi-di-kudus-terkait-kasus-bea-cukai",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-2_169.jpeg?w=640&q=90",
-   "date": "2026-10-29T15:54:13+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Budi belum merinci lokasi yang digeledah. Dia menjelaskan penggeledahan masih berlangsung hari ini."
+   "summary": "Wapres JD Vance menghubungi pejabat tinggi keamanan Iran, baru-baru ini, dalam upaya menghidupkan kembali negosiasi damai yang dapat mencegah serangan baru AS."
   }
  ]
 }
