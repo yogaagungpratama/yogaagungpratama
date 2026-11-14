@@ -1,123 +1,78 @@
 {
- "updated": "2026-11-14T01:21:01.671406+00:00",
+ "updated": "2026-11-14T07:51:00.966213+00:00",
  "source": "https://www.detik.com",
  "articles": [
   {
-   "title": "WNI Gabung Militer Rusia Ditangkap Ukraina, Komisi I DPR Soroti Dugaan TPPO",
-   "url": "https://news.detik.com/berita/d-8752444/wni-gabung-militer-rusia-ditangkap-ukraina-komisi-i-dpr-soroti-dugaan-tppo",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2024/10/24/dave-laksono-anggidetikcom_169.jpeg?w=640&q=90",
-   "date": "2026-11-14T01:16:22+00:00",
-   "category": "INDONESIA",
+   "title": "Detik-detik Ngeri Kapal Pesiar di Mississippi Diseruduk Kapal Tanker",
+   "url": "https://news.detik.com/internasional/d-8752820/detik-detik-ngeri-kapal-pesiar-di-mississippi-diseruduk-kapal-tanker",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/usa-louisianaship-collision-1794640145144_169.jpeg?w=640&q=90",
+   "date": "2026-11-14T07:24:18+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Dave Laksono menanggapi kabar WNI gabung militer Rusia ditangkap otoritas Ukraina. Dave minta pemerintah segera mengutamakan perlindungan terhadap WNI tersebut."
+   "summary": "Kapal penumpang American Cruise Lines tenggelam setelah ditabrak kapal tanker di Sungai Mississippi. Begini penampakannya."
   },
   {
-   "title": "Hanura Optimis Raih Banyak Kursi DPR dari Papua Barat Daya",
-   "url": "https://news.detik.com/berita/d-8752442/hanura-optimis-raih-banyak-kursi-dpr-dari-papua-barat-daya",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/hanura-1794495674498_169.jpeg?w=640&q=90",
-   "date": "2026-11-14T01:14:57+00:00",
-   "category": "INDONESIA",
+   "title": "AS Salahkan Perangkat Lawas yang Bikin Semua Penerbangan Sempat Disetop",
+   "url": "https://news.detik.com/internasional/d-8752750/as-salahkan-perangkat-lawas-yang-bikin-semua-penerbangan-sempat-disetop",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2021/12/02/syarat-penerbangan-ppkm-level-3-nataru-sesuai-se-satgas-covid-19_169.jpeg?w=640&q=90",
+   "date": "2026-11-14T06:25:57+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Wakil Ketua Umum DPP Partai Hanura Patrice Rio Capella yakin Hanura raih banyak kursi DPR di Papua Barat Daya."
+   "summary": "Amerika Serikat mencabut ground stop penerbangan. AS mengatakan ada gangguan akibat peralatan usang."
   },
   {
-   "title": "Proses Pencarian Wapres Pengganti Gibran Mulai Bergulir",
-   "url": "https://news.detik.com/berita/d-8752441/proses-pencarian-wapres-pengganti-gibran-mulai-bergulir",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/rapat-gabungan-mpr-usai-gibran-mundur-1794561451753_169.jpeg?w=640&q=90",
-   "date": "2026-11-14T01:11:38+00:00",
-   "category": "INDONESIA",
+   "title": "Gedung Putih: Bersejarah! Trump, Putin dan Xi Akan Bertemu di China",
+   "url": "https://news.detik.com/internasional/d-8752726/gedung-putih-bersejarah-trump-putin-dan-xi-akan-bertemu-di-china",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2025/10/05/shutdown-belum-berakhir-pemerintah-as-lumpuh-hingga-hari-keempat-1759618032383_169.jpeg?w=640&q=90",
+   "date": "2026-11-14T05:59:20+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Gibran Rakabuming Raka telah mundur dari jabatannya sebagai wakil presiden. Kini, proses pencarian wapres baru pun dimulai."
+   "summary": "Trump, Putin, dan Xi Jinping akan menggelar pertemuan trilateral di KTT APEC di Shenzhen. GEdung Putih mengatakan ini pertemuan yang bersejarah."
   },
   {
-   "title": "BPJS Ketenagakerjaan Dorong SIER Jadi Hub Perlindungan Pekerja",
-   "url": "https://news.detik.com/berita/d-8752427/bpjs-ketenagakerjaan-dorong-sier-jadi-hub-perlindungan-pekerja",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/bpjs-ketenagakerjaan-dorong-sier-jadi-hub-perlindungan-pekerja-1794617930632.jpeg?w=640&q=90",
-   "date": "2026-11-14T01:00:29+00:00",
-   "category": "INDONESIA",
+   "title": "Microsoft Tepis Disetopnya Semua Penerbangan di AS Gara-gara Layanannya Tumbang",
+   "url": "https://news.detik.com/internasional/d-8752658/microsoft-tepis-disetopnya-semua-penerbangan-di-as-gara-gara-layanannya-tumbang",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2025/05/14/badai-phk-merajalela-kini-giliran-microsoft-pangkas-6000-pegawai-1747205827346_169.jpeg?w=640&q=90",
+   "date": "2026-11-14T04:55:51+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "BPJS Ketenagakerjaan dorong SIER jadi hub perlindungan pekerja. Kolaborasi penting untuk tingkatkan kesejahteraan dan produktivitas di kawasan industri."
+   "summary": "Microsoft membantah keterlibatan dalam penghentian penerbangan AS. Menteri Keamanan Dalam Negeri menegaskan tidak ada serangan siber terkait insiden ini."
   },
   {
-   "title": "3 Fakta Crane Jatuh di Kuningan Tewaskan 1 Orang",
-   "url": "https://news.detik.com/berita/d-8752406/3-fakta-crane-jatuh-di-kuningan-tewaskan-1-orang",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/lengan-alat-berat-crane-patah-dan-jatuh-di-area-proyek-di-kuningan-jaksel-dok-pribadilina-1794558868383_169.png?w=640&q=90",
-   "date": "2026-11-14T00:37:52+00:00",
-   "category": "INDONESIA",
+   "title": "Benarkah Semua Penerbangan AS Sempat Disetop karena Serangan Siber?",
+   "url": "https://news.detik.com/internasional/d-8752623/benarkah-semua-penerbangan-as-sempat-disetop-karena-serangan-siber",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/04/10/ilustrasi-pesawat-atau-penerbangan-1775819145413_169.jpeg?w=640&q=90",
+   "date": "2026-11-14T04:18:12+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Insiden crane jatuh di Mega Kuningan, Jakarta Selatan, pada 13 November 2026, menewaskan satu pekerja. Penyebab kecelakaan masih diselidiki."
+   "summary": "Penerbangan di AS sempat dihentikan akibat gangguan sistem, bukan serangan siber. Menteri Transportasi menyatakan ruang udara kini telah dibuka kembali."
   },
   {
-   "title": "DKPP Segera Sidangkan Aduan soal Pencalonan Gibran",
-   "url": "https://news.detik.com/berita/d-8752401/dkpp-segera-sidangkan-aduan-soal-pencalonan-gibran",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2023/03/07/ketua-dkpp-heddy-lugito-anggi-detikcom_169.jpeg?w=640&q=90",
-   "date": "2026-11-14T00:31:18+00:00",
-   "category": "INDONESIA",
+   "title": "Sempat Disetop, Semua Penerbangan di AS Beroperasi Lagi",
+   "url": "https://news.detik.com/internasional/d-8752584/sempat-disetop-semua-penerbangan-di-as-beroperasi-lagi",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2024/03/16/ilustrasi-united-airlines-boeing-777-300-oer_169.jpeg?w=640&q=90",
+   "date": "2026-11-14T04:00:56+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "DKPP tetap memproses aduan dugaan pelanggaran kode etik KPU terkait PKPU Nomor 19 Tahun 2023. Sidang segera dijadwalkan untuk empat aduan yang memenuhi syarat."
+   "summary": "Penerbangan di Amerika Serikat (AS) kembali beroperasi setelah FAA mencabut ground stop."
   },
   {
-   "title": "KTT ke-49 ASEAN, Menlu RI Gelar Pertemuan dengan Menlu Brunei-Malaysia",
-   "url": "https://news.detik.com/berita/d-8752398/ktt-ke-49-asean-menlu-ri-gelar-pertemuan-dengan-menlu-brunei-malaysia",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/menlu-tata-menggelar-pertemuan-bilateral-dan-trilateral-dengan-menlu-brunei-hingga-malaysia-farih-maulana-sidikdetikcom-1794616198611_169.jpeg?w=640&q=90",
-   "date": "2026-11-14T00:30:30+00:00",
-   "category": "INDONESIA",
+   "title": "Kapal Tanker Tabrak Kapal Pesiar di Mississippi, Penumpang Dievakuasi",
+   "url": "https://news.detik.com/internasional/d-8752495/kapal-tanker-tabrak-kapal-pesiar-di-mississippi-penumpang-dievakuasi",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/kapal-tanker-tabrak-kapal-pesiar-di-mississipi-dok-bbc-1794623541123_169.webp?w=640&q=90",
+   "date": "2026-11-14T02:32:46+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Menteri Luar Negeri RI, Arrmanatha Nasir, menghadiri KTT ASEAN ke-49 di Manila, melakukan pertemuan bilateral dan trilateral dengan negara anggota ASEAN."
+   "summary": "Kapal tanker kehilangan kendali dan menabrak kapal pesiar di Sungai Mississippi. Puluhan penumpang dievakuasi dan 32 orang dirawat."
   },
   {
-   "title": "Balasan PDIP Usai Gibran Singgung Partai Lama",
-   "url": "https://news.detik.com/berita/d-8752396/balasan-pdip-usai-gibran-singgung-partai-lama",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2018/01/03/05e515be-11e4-44a2-aa22-616b22b90046_169.jpg?w=640&q=90",
-   "date": "2026-11-14T00:22:40+00:00",
-   "category": "INDONESIA",
+   "title": "Seluruh Penerbangan di AS Disetop!",
+   "url": "https://news.detik.com/internasional/d-8752481/seluruh-penerbangan-di-as-disetop",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2024/06/20/ilustrasi-pesawat_169.jpeg?w=640&q=90",
+   "date": "2026-11-14T02:16:47+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "PDIP merespons cerita Gibran soal beratnya meninggalkan partai demi menerima pinangan Prabowo di Pilpres 2024. PDIP menilai pengakuan tersebut sudah terlambat."
-  },
-  {
-   "title": "NasDem Harap Wapres Pengganti Gibran Cerdas dan Berwawasan Global",
-   "url": "https://news.detik.com/berita/d-8752386/nasdem-harap-wapres-pengganti-gibran-cerdas-dan-berwawasan-global",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2023/11/15/sekjen-nasdem-hermawi-taslim_169.jpeg?w=640&q=90",
-   "date": "2026-11-14T00:02:50+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "NasDem serahkan penentuan pengganti Gibran sebagai wapres kepada Prabowo. NasDem menilai sosok wapres yang baru harus punya sejumlah kriteria."
-  },
-  {
-   "title": "Yang Bersuara Kala Diisukan Jadi Cawapres Pengganti Gibran",
-   "url": "https://news.detik.com/berita/d-8752382/yang-bersuara-kala-diisukan-jadi-cawapres-pengganti-gibran",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/momen-gibran-berpamitan-dengan-relawan-dan-karyawan-di-istana-wapres-1794472497632_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T23:33:07+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Jabatan Wakil Presiden RI kosong setelah Gibran mundur. Beberapa nama, termasuk Ahmad Muzani dan Sultan HB X, muncul sebagai calon pengganti"
-  },
-  {
-   "title": "PDIP soal Cawapres Pengganti Gibran: Presiden Tahu Sosok yang Dibutuhkan",
-   "url": "https://news.detik.com/berita/d-8752381/pdip-soal-cawapres-pengganti-gibran-presiden-tahu-sosok-yang-dibutuhkan",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2025/04/21/ketua-dpp-pdi-perjuangan-deddy-sitorus-dwi-rahmawatidetikcom-1745223981995_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T23:31:17+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "PDIP menyerahkan sepenuhnya kepada Prabowo terkait sosok yang akan menggantikan Gibran. PDIP menilai penentuan figur tersebut merupakan hak prerogatif presiden."
-  },
-  {
-   "title": "Ramai Tanya Kucing Parhan Batal Dikembalikan ke Sency oleh Pengadopsi",
-   "url": "https://news.detik.com/berita/d-8752378/ramai-tanya-kucing-parhan-batal-dikembalikan-ke-sency-oleh-pengadopsi",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/cerita-parhan-bukanlah-cerita-kucing-biasa-kucing-ini-begitu-disayangi-orang-orang-yang-kerap-melintasi-kawasan-senayan-city-s-1794314702999_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T23:00:55+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Kucing Parhan batal dikembalikan ke habitat awalnya di kawasan Sency. Komunitas penyayang hewan mempertanyakan batalnya pengembalian Parhan ke Sency."
-  },
-  {
-   "title": "Serangan Kelompok Bersenjata di Kongo Tewaskan 44 Orang",
-   "url": "https://news.detik.com/internasional/d-8752365/serangan-kelompok-bersenjata-di-kongo-tewaskan-44-orang",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2015/07/07/9db1f355-5935-4f83-99d5-5cee4d7b7f82_169.jpg?w=640&q=90",
-   "date": "2026-11-13T22:10:19+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Kelompok bersenjata terkait ISIS menyerang Kongo, menewaskan 44 orang. Serangan ini memperburuk situasi Ebola di wilayah yang sudah tidak aman."
+   "summary": "Seluruh penerbangan di AS dihentikan akibat gangguan komunikasi besar, memicu kekacauan perjalanan. FAA menyelidiki masalah ini tanpa indikasi ancaman."
   },
   {
    "title": "Serangan Kelompok Bersenjata di Kongo Tewaskan 44 Orang",
@@ -127,24 +82,6 @@
    "category": "WORLD",
    "source": "detik.com",
    "summary": "Kelompok bersenjata terkait ISIS menyerang Kongo, menewaskan 44 orang. Serangan ini memperburuk situasi Ebola di wilayah yang sudah tidak aman."
-  },
-  {
-   "title": "Polisi Gerebek Gudang Miras di Ciawi Bogor, Sita 1.500 Botol",
-   "url": "https://news.detik.com/berita/d-8752364/polisi-gerebek-gudang-miras-di-ciawi-bogor-sita-1-500-botol",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/sebuah-rumah-yang-dijadikan-gudang-minuman-keras-miras-digerebek-polisi-di-jalan-raya-jenderal-hoegeng-ciawi-bogor-1794607195050_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T22:00:56+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Polisi menggerebek gudang miras di Ciawi, Bogor, menyita 1.500 botol tanpa izin"
-  },
-  {
-   "title": "2 Perampok Sekap Bocah SD hingga Tewas di Malang Ditangkap",
-   "url": "https://news.detik.com/berita/d-8752360/2-perampok-sekap-bocah-sd-hingga-tewas-di-malang-ditangkap",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/rumah-di-malang-dirampok-1794488954567_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T21:34:00+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Seorang siswi kelas 4 SD di Malang tewas setelah disekap perampok. Polisi telah menangkap dua pelaku, salah satunya adalah residivis pencurian."
   },
   {
    "title": "Skandal Selingkuh dengan Mata-mata China Berlanjut ke Parlemen AS",
@@ -199,78 +136,6 @@
    "category": "WORLD",
    "source": "detik.com",
    "summary": "Rusia menembak jatuh hampir 1.200 drone Ukraina yang menghujani wilayahnya dalam semalam. Sedikitnya empat orang tewas akibat rentetan serangan drone tersebut."
-  },
-  {
-   "title": "PM Jepang Akan Kunjungi China untuk Pertama Kali, Hadiri KTT APEC",
-   "url": "https://news.detik.com/internasional/d-8751671/pm-jepang-akan-kunjungi-china-untuk-pertama-kali-hadiri-ktt-apec",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/05/pm-jepang-sanae-takaichi-1791190581214_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T08:15:18+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "PM Jepang Sanae Takaichi akan mengunjungi China pekan depan, untuk menghadiri KTT APEC. Ini akan menjadi kunjungan pertama Takaichi sejak dia menjabat."
-  },
-  {
-   "title": "Menhan Israel Bilang Tak Perlu Izin Oposisi untuk Lancarkan Serangan",
-   "url": "https://news.detik.com/internasional/d-8751641/menhan-israel-bilang-tak-perlu-izin-oposisi-untuk-lancarkan-serangan",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2024/11/12/israel-katz_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T07:59:07+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Menhan Israel, Israel Katz, mengatakan bahwa Netanyahu, yang kini berstatus PM sementara, tak memerlukan persetujuan oposisi untuk melancarkan serangan baru."
-  },
-  {
-   "title": "Panama Tolak Klaim AS soal Kendali Bersama Terusan",
-   "url": "https://news.detik.com/internasional/d-8751494/panama-tolak-klaim-as-soal-kendali-bersama-terusan",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/03/25/efek-perang-iran-terusan-panama-diserbu-kapal-lng-1774404031968_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T07:09:17+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Panama menegaskan hanya pihaknya yang memegang kendali atas Terusan Panama. Hal itu disampaikan untuk membantah pernyataan Menhan AS soal kendali bersama."
-  },
-  {
-   "title": "Terjadi Lagi, 4 Kapal Tanker Minyak Terbakar di Selat Hormuz",
-   "url": "https://news.detik.com/internasional/d-8751468/terjadi-lagi-4-kapal-tanker-minyak-terbakar-di-selat-hormuz",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/12/uae-iran-us-israel-war-1783871173097_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T07:02:02+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Iran melaporkan empat kapal tanker minyak terbakar di Selat Hormuz. Teheran menuduh kapal-kapal itu melanggar aturan di jalur perairan strategis itu."
-  },
-  {
-   "title": "Trump Ancam Pakai Kekuatan Militer ke Iran Jika Sekutu AS Terancam",
-   "url": "https://news.detik.com/internasional/d-8751340/trump-ancam-pakai-kekuatan-militer-ke-iran-jika-sekutu-as-terancam",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/02/25/presiden-trump-kembali-berpidato-di-hadapan-kongres-as-1771988311472_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T06:20:53+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Trump mengatakan sepenuhnya siap untuk mengerahkan kekuatan militer terhadap Iran saat ini juga jika sekutu dan kapal-kapal AS terancam."
-  },
-  {
-   "title": "Pilu, Bayi 9 Bulan di Gaza Meninggal Akibat Hipotermia",
-   "url": "https://news.detik.com/internasional/d-8751281/pilu-bayi-9-bulan-di-gaza-meninggal-akibat-hipotermia",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/banjir-menggenangi-tenda-tenda-pengungsi-gaza-1794548588893_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T05:46:40+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Seorang bayi berusia sembilan bulan di Jalur Gaza meninggal dunia akibat hipotermia pada Kamis (12/11), saat cuaca ekstrem dan banjir melanda wilayah tersebut."
-  },
-  {
-   "title": "Trump Bilang AS Tak Butuh Kesepakatan dengan Iran",
-   "url": "https://news.detik.com/internasional/d-8751202/trump-bilang-as-tak-butuh-kesepakatan-dengan-iran",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/17/trump-saat-menghadiri-ktt-g7-di-prancis-1781686047266_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T04:51:11+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Trump mengatakan bahwa AS tidak membutuhkan kesepakatan untuk mengakhiri perang dengan Iran."
-  },
-  {
-   "title": "FBI: Hacker Korut Pakai Video Call Palsu Buat Curi Kripto Rp 7,3 Triliun",
-   "url": "https://news.detik.com/internasional/d-8751126/fbi-hacker-korut-pakai-video-call-palsu-buat-curi-kripto-rp-7-3-triliun",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2025/08/23/ilustrasi-hacker-1755942985725_169.jpeg?w=640&q=90",
-   "date": "2026-11-13T04:16:41+00:00",
-   "category": "WORLD",
-   "source": "detik.com",
-   "summary": "Amerika Serikat (AS) menyebut peretas yang didukung oleh Korea Utara (Korut) telah mencuri mata uang kripto senilai lebih dari USD 400 juta (Rp 7,3 triliun)."
   }
  ]
 }
