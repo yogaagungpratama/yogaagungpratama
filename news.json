@@ -1,141 +1,276 @@
 {
- "updated": "2026-11-19T19:21:57.278327+00:00",
+ "updated": "2026-11-20T01:23:28.540948+00:00",
  "source": "https://www.detik.com",
  "articles": [
+  {
+   "title": "Kebakaran Sempat Landa Kios Laundry di Kemayoran, Bus TransJ Dialihkan",
+   "url": "https://news.detik.com/berita/d-8761171/kebakaran-sempat-landa-kios-laundry-di-kemayoran-bus-transj-dialihkan",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2022/11/08/ilustrasi-api_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T01:16:39+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Kebakaran kios laundry di Kemayoran, Jakarta Pusat, terjadi pagi hari dan mengakibatkan pengalihan rute TransJakarta. Pemadaman selesai dalam 47 menit."
+  },
+  {
+   "title": "Siap-siap Sedia Payung! Jakarta Selatan Sudah Masuk Awal Musim Hujan",
+   "url": "https://news.detik.com/berita/d-8761168/siap-siap-sedia-payung-jakarta-selatan-sudah-masuk-awal-musim-hujan",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/01/27/waspada-potensi-cuaca-ekstrem-di-jakarta-hingga-1-februari-1769487538284_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T01:12:16+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Hujan mulai rutin mengguyur Jakarta dalam beberapa hari terakhir, khususnya Jakarta Selatan. BMKG menyebut sebagian Jakarta sudah masuk musim hujan."
+  },
+  {
+   "title": "Terbongkar Tambang Emas Ilegal di Bogor",
+   "url": "https://news.detik.com/berita/d-8761162/terbongkar-tambang-emas-ilegal-di-bogor",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/aparat-gabungan-menertibkan-31-lubang-tambang-emas-ilegal-di-wilayah-taman-nasional-gunung-halimun-salak-tnghs-bogor-rizky-amd-1795062052889_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T01:02:55+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Aparat gabungan menertibkan 31 titik tambang emas ilegal di Taman Nasional Gunung Halimun Salak, Bogor. Puluhan gubuk dan mesin dimusnahkan."
+  },
+  {
+   "title": "25 November, Prabowo Bakal Serahkan 2 Nama Pengganti Gibran ke MPR",
+   "url": "https://news.detik.com/berita/d-8760876/25-november-prabowo-bakal-serahkan-2-nama-pengganti-gibran-ke-mpr",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/detik-pagi-25-november-prabowo-bakal-serahkan-2-nama-pengganti-gibran-ke-mpr-1795134143239_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:58:00+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Panitia Ad Hoc MPR RI terkait pengisian jabatan kosong Wakil Presiden RI melakukan rapat perdana hari ini."
+  },
+  {
+   "title": "Walkot Istanbul Terancam Gagal Nyapres Gegara Ijazah Dianggap Tidak Sah",
+   "url": "https://news.detik.com/internasional/d-8761150/walkot-istanbul-terancam-gagal-nyapres-gegara-ijazah-dianggap-tidak-sah",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2025/03/20/wali-kota-istanbul-ekrem-imamoglu-yang-telah-ditangkap-oleh-otoritas-turki-seharusnya-maju-sebagai-calon-presiden-dalam-bebera-1742466290875_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:56:18+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Pengadilan Turki melarang Wali Kota Istanbul, Ekrem Imamoglu, mencalonkan diri dalam Pilpres 2028 setelah ijazahnya dinyatakan tidak sah."
+  },
+  {
+   "title": "Walkot Istanbul Terancam Gagal Nyapres Gegara Ijazah Dianggap Tidak Sah",
+   "url": "https://news.detik.com/internasional/d-8761150/walkot-istanbul-terancam-gagal-nyapres-gegara-ijazah-dianggap-tidak-sah",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2025/03/20/wali-kota-istanbul-ekrem-imamoglu-yang-telah-ditangkap-oleh-otoritas-turki-seharusnya-maju-sebagai-calon-presiden-dalam-bebera-1742466290875_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:56:18+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Pengadilan Turki melarang Wali Kota Istanbul, Ekrem Imamoglu, mencalonkan diri dalam Pilpres 2028 setelah ijazahnya dinyatakan tidak sah."
+  },
+  {
+   "title": "Banjir Kembali Landa Aceh, Komisi V DPR Desak Percepat Penanganan",
+   "url": "https://news.detik.com/berita/d-8761146/banjir-kembali-landa-aceh-komisi-v-dpr-desak-percepat-penanganan",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2025/12/09/ketua-komisi-v-dpr-lasarus-1765266581232_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:46:29+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Ketua Komisi V DPR RI Lasarus mendesak pemerintah percepat penanganan bencana banjir di Aceh. Ia menyoroti anggaran dan pentingnya informasi cuaca dari BMKG."
+  },
+  {
+   "title": "8 Hal Penting yang Kini Diatur di UU Perampasan Aset",
+   "url": "https://news.detik.com/berita/d-8761140/8-hal-penting-yang-kini-diatur-di-uu-perampasan-aset",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/setelah-18-tahun-bergulir-dpr-sahkan-ruu-perampasan-aset-menjadi-undang-undang-1795068865950_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:36:14+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "DPR RI telah mengesahkan Undang-Undang Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya. UU ini disahkan setelah 18 tahun berproses."
+  },
+  {
+   "title": "Trump Ngaku Terlalu Sibuk untuk Bertemu Kim Jong Un: Mungkin Lain Waktu",
+   "url": "https://news.detik.com/internasional/d-8761137/trump-ngaku-terlalu-sibuk-untuk-bertemu-kim-jong-un-mungkin-lain-waktu",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2019/06/30/166e94a9-ab60-49c1-9000-0736b26d4da6_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:26:50+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Presiden Trump mengaku terlalu sibuk untuk bertemu Kim Jong Un selama kunjungan ke Asia. Dia berjanji akan mengatur pertemuan di lain waktu."
+  },
+  {
+   "title": "Trump Ngaku Terlalu Sibuk untuk Bertemu Kim Jong Un: Mungkin Lain Waktu",
+   "url": "https://news.detik.com/internasional/d-8761137/trump-ngaku-terlalu-sibuk-untuk-bertemu-kim-jong-un-mungkin-lain-waktu",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2019/06/30/166e94a9-ab60-49c1-9000-0736b26d4da6_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:26:50+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Presiden Trump mengaku terlalu sibuk untuk bertemu Kim Jong Un selama kunjungan ke Asia. Dia berjanji akan mengatur pertemuan di lain waktu."
+  },
+  {
+   "title": "TNUK Buka Suara soal Kandang Angkut Badak: untuk Translokasi Internal",
+   "url": "https://news.detik.com/berita/d-8761136/tnuk-buka-suara-soal-kandang-angkut-badak-untuk-translokasi-internal",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/kandang-yang-diangkut-oleh-kapa-k-61-marinir-tni-angkatan-laut-di-ujung-kulon-1795134369015_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:26:30+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Balai Taman Nasional Ujung Kulon menegaskan kandang angkut badak Jawa untuk translokasi internal, bukan pemindahan ke Alas Purwo."
+  },
+  {
+   "title": "Komisi VIII DPR Panggil Kepala BNPB Pekan Depan, Bahas Banjir Aceh-Sumatera",
+   "url": "https://news.detik.com/berita/d-8761134/komisi-viii-dpr-panggil-kepala-bnpb-pekan-depan-bahas-banjir-aceh-sumatera",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/03/06/marwan-dasopang-1772781655015_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:18:05+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Komisi VIII DPR akan memanggil Kepala BNPB Letjen TNI Kristomei Sianturi, pekan depan, untuk membahas penanganan banjir, khususnya di Aceh dan Sumatera."
+  },
+  {
+   "title": "Pujian Trump untuk Xi Jinping dan Putin dalam Momen Bersejarah",
+   "url": "https://news.detik.com/internasional/d-8761132/pujian-trump-untuk-xi-jinping-dan-putin-dalam-momen-bersejarah",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-china-xi-jinping-presiden-as-donald-trump-dan-presiden-rusia-vladimir-putin-tiba-untuk-menghadiri-pertemuan-trilatera-1795078468037_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:10:04+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Pertemuan bersejarah melibatkan Xi Jinping, Vladimir Putin, dan Donald Trump terjadi di China. Pujian diberikan Trump ke Putin dan Xi atas bersuanya mereka."
+  },
+  {
+   "title": "Pujian Trump untuk Xi Jinping dan Putin dalam Momen Bersejarah",
+   "url": "https://news.detik.com/internasional/d-8761132/pujian-trump-untuk-xi-jinping-dan-putin-dalam-momen-bersejarah",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-china-xi-jinping-presiden-as-donald-trump-dan-presiden-rusia-vladimir-putin-tiba-untuk-menghadiri-pertemuan-trilatera-1795078468037_169.jpeg?w=640&q=90",
+   "date": "2026-11-20T00:10:04+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Pertemuan bersejarah melibatkan Xi Jinping, Vladimir Putin, dan Donald Trump terjadi di China. Pujian diberikan Trump ke Putin dan Xi atas bersuanya mereka."
+  },
+  {
+   "title": "4 Fakta Pasar Obor Jaktim Digerebek Terkait Narkoba",
+   "url": "https://news.detik.com/berita/d-8761128/4-fakta-pasar-obor-jaktim-digerebek-terkait-narkoba",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/polisi-hingga-bnn-menggerebek-lapak-narkoba-di-pasar-obor-jakarta-timur-1795060608801_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T23:46:04+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Tim gabungan menggerebek Pasar Obor, Jakarta Timur. Ratusan paket narkoba, senjata api rakitan hingga samurai ditemukan saat penggerebekan ini."
+  },
+  {
+   "title": "Duduk Perkara Pengamen Ondel-ondel di Tangerang Dibunuh Rekannya",
+   "url": "https://news.detik.com/berita/d-8761117/duduk-perkara-pengamen-ondel-ondel-di-tangerang-dibunuh-rekannya",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/pengamen-ondel-ondel-ditemukan-tewas-di-pinggir-tol-tangerang-jakarta-1795062815132_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T23:11:06+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Warga Kota Tangerang dihebohkan penemuan mayat pria di pinggir Jalan Tol Tangerang-Jakarta. Setelah diselidiki, korban diketahui merupakan pengamen ondel-ondel."
+  },
+  {
+   "title": "Operasi Darat Militer Israel Selesai, Warga Gaza Kembali ke Rumah",
+   "url": "https://news.detik.com/internasional/d-8761106/operasi-darat-militer-israel-selesai-warga-gaza-kembali-ke-rumah",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/09/israel-palestiniansgaza-1791515003708_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T22:41:14+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Militer Israel mengklaim telah menyelesaikan operasi darat di Gaza. Warga Palestina kembali memeriksa rumah mereka pasca serangan."
+  },
+  {
+   "title": "Operasi Darat Militer Israel Selesai, Warga Gaza Kembali ke Rumah",
+   "url": "https://news.detik.com/internasional/d-8761106/operasi-darat-militer-israel-selesai-warga-gaza-kembali-ke-rumah",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/09/israel-palestiniansgaza-1791515003708_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T22:41:14+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Militer Israel mengklaim telah menyelesaikan operasi darat di Gaza. Warga Palestina kembali memeriksa rumah mereka pasca serangan."
+  },
+  {
+   "title": "6 Orang Tewas Akibat Ledakan Gas yang Runtuhkan Apartemen di Georgia",
+   "url": "https://news.detik.com/internasional/d-8761103/6-orang-tewas-akibat-ledakan-gas-yang-runtuhkan-apartemen-di-georgia",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/23/penemuan-mayat-wanita-duduk-di-melaya_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T21:47:23+00:00",
+   "category": "INDONESIA",
+   "source": "detik.com",
+   "summary": "Ledakan gas meruntuhkan gedung apartemen di Tbilisi, Georgia, menewaskan enam orang, termasuk anak kecil. Seorang anak berhasil dievakuasi hidup."
+  },
+  {
+   "title": "6 Orang Tewas Akibat Ledakan Gas yang Runtuhkan Apartemen di Georgia",
+   "url": "https://news.detik.com/internasional/d-8761103/6-orang-tewas-akibat-ledakan-gas-yang-runtuhkan-apartemen-di-georgia",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/23/penemuan-mayat-wanita-duduk-di-melaya_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T21:47:23+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Ledakan gas meruntuhkan gedung apartemen di Tbilisi, Georgia, menewaskan enam orang, termasuk anak kecil. Seorang anak berhasil dievakuasi hidup."
+  },
+  {
+   "title": "Houthi Serang Gedung Tertinggi di Kawasan Keuangan Riyadh Saudi",
+   "url": "https://news.detik.com/internasional/d-8761102/houthi-serang-gedung-tertinggi-di-kawasan-keuangan-riyadh-saudi",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2024/06/13/pif-towervia-architect-magazine_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T21:26:35+00:00",
+   "category": "WORLD",
+   "source": "detik.com",
+   "summary": "Kelompok Houthi menyerang gedung pencakar langit di Riyadh, Arab Saudi, merusak beberapa lantai tanpa korban jiwa. Serangan ini menambah ketegangan di kawasan."
+  },
   {
    "title": "China, AS, Rusia Terbitkan Deklarasi Menuju Perdamaian Usai KTT",
    "url": "https://news.detik.com/internasional/d-8761091/china-as-rusia-terbitkan-deklarasi-menuju-perdamaian-usai-ktt",
    "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-china-xi-jinping-presiden-as-donald-trump-dan-presiden-rusia-vladimir-putin-tiba-untuk-menghadiri-pertemuan-trilatera-1795078468037_169.jpeg?w=640&q=90",
    "date": "2026-11-19T18:52:35+00:00",
-   "category": "INDONESIA",
+   "category": "WORLD",
    "source": "detik.com",
    "summary": "China, AS, dan Rusia mengeluarkan Deklarasi Menuju Perdamaian setelah pertemuan puncak. Mereka berkomitmen reformasi PBB dan membatasi ICC."
   },
   {
-   "title": "KPK Cecar Sestama BNPB Soal Plotting Anggaran Dana Bencana ke Swasta",
-   "url": "https://news.detik.com/berita/d-8761087/kpk-cecar-sestama-bnpb-soal-plotting-anggaran-dana-bencana-ke-swasta",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/29/gedung-merah-putih-kpk-b-beliadetikcom-1787983627232_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T18:28:03+00:00",
-   "category": "INDONESIA",
+   "title": "Bertemu Trump dan Xi Jinping di China, Putin Harap Pembicaraan Lanjut",
+   "url": "https://news.detik.com/internasional/d-8761027/bertemu-trump-dan-xi-jinping-di-china-putin-harap-pembicaraan-lanjut",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-china-xi-jinping-presiden-as-donald-trump-dan-presiden-rusia-vladimir-putin-tiba-untuk-menghadiri-pertemuan-trilatera-1795078468037_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T16:36:27+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "KPK memeriksa Sestama BNPB, Rustian, terkait korupsi dana kebencanaan. Fokus pada dugaan penunjukan langsung dan konflik kepentingan dalam pengadaan."
+   "summary": "Presiden Rusia Putin menyebut pertemuan trilateral dengan Xi Jinping dan Trump sebagai momen bersejarah, berharap diskusi dapat ditindaklanjuti."
   },
   {
-   "title": "2 Orang Hanyut Terseret Banjir Bandang Cisimeut Ternyata Warga Baduy",
-   "url": "https://news.detik.com/berita/d-8761084/2-orang-hanyut-terseret-banjir-bandang-cisimeut-ternyata-warga-baduy",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/proses-pencarian-warga-baduy-yang-hilang-saat-banjir-di-sungai-cisimeut-lebak-1795110432661_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T17:48:00+00:00",
-   "category": "INDONESIA",
+   "title": "Nyaris 1 Dekade Lagi Islam Jadi Agama Paling Mendominasi Dunia",
+   "url": "https://news.detik.com/internasional/d-8760840/nyaris-1-dekade-lagi-islam-jadi-agama-paling-mendominasi-dunia",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2023/06/15/ilustrasi-mekkah-1_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T14:27:28+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Pulung (21) dan Aliyah (10) hilang terseret arus di Sungai Cisimeut, Lebak. Tim SAR gabungan dikerahkan untuk mencari kedua warga Baduy tersebut."
+   "summary": "Islam diprediksi menjadi agama dengan jumlah pemeluk terbesar di dunia. Hal itu, didasarkan pada pertumbuhan populasi Muslim yang lebih cepat."
   },
   {
-   "title": "Mobil Ditemploki Sekuriti di PIK Ternyata Dikemudikan Polisi, Ini Kronologinya",
-   "url": "https://news.detik.com/berita/d-8761076/mobil-ditemploki-sekuriti-di-pik-ternyata-dikemudikan-polisi-ini-kronologinya",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/04/08/ilustrasi-main-tiktok-di-mobil-1775615901344_169.png?w=640&q=90",
-   "date": "2026-11-19T17:24:58+00:00",
-   "category": "INDONESIA",
+   "title": "Bertemu Xi dan Putin, Trump Sebut AS Ambil Arah Berbeda",
+   "url": "https://news.detik.com/internasional/d-8760326/bertemu-xi-dan-putin-trump-sebut-as-ambil-arah-berbeda",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/pertemuan-trilateral-presiden-as-donald-trump-presiden-tiongkok-xi-jinping-dan-presiden-rusia-vladimir-putin-1795080408603_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T09:28:38+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Sekuriti menaiki kap mobil polisi di PIK setelah tuduhan tabrak lari. Insiden berujung penganiayaan terhadap anggota kepolisian. Investigasi sedang berlangsung."
+   "summary": "Presiden Trump, Xi Jinping, dan Putin mengadakan pertemuan trilateral pertama. Mereka membahas perdamaian, perang Ukraina, dan pelucutan senjata nuklir."
   },
   {
-   "title": "Semarak Malam Puncak detikcom Awards 2026",
-   "url": "https://news.detik.com/foto-news/d-8761068/semarak-malam-puncak-detikcom-awards-2026",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/semarak-malam-puncak-detikcom-awards-2026-1795108222528_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T17:16:39+00:00",
-   "category": "INDONESIA",
+   "title": "Pertemuan Bersejarah Trump, Xi dan Putin Dimulai",
+   "url": "https://news.detik.com/internasional/d-8760237/pertemuan-bersejarah-trump-xi-dan-putin-dimulai",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-china-xi-jinping-presiden-as-donald-trump-dan-presiden-rusia-vladimir-putin-tiba-untuk-menghadiri-pertemuan-trilatera-1795078468037_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T08:54:54+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "detikcom Awards 2026 sukses digelar. Ajang ini memberi penghargaan kepada mereka yang berkontribusi luar biasa dalam berbagai bidang."
+   "summary": "Presiden Trump, Xi, dan Putin mengadakan pertemuan trilateral bersejarah di Shenzhen. Pembicaraan itu fokus pada perdamaian dunia."
   },
   {
-   "title": "Sabet detikcom Awards 2026, Kemenimipas Catat 18,6 Juta Deklarasi M-Paspor",
-   "url": "https://news.detik.com/berita/d-8761065/sabet-detikcom-awards-2026-kemenimipas-catat-18-6-juta-deklarasi-m-paspor",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/kemenimipas-raih-detikcom-awards-diterima-wamen-imipas-maulana-bungaran-1795097897364.png?w=640&q=90",
-   "date": "2026-11-19T17:03:41+00:00",
-   "category": "INDONESIA",
+   "title": "Trump Tampak Ketiduran saat Xi Jinping Pidato di KTT APEC",
+   "url": "https://news.detik.com/internasional/d-8760192/trump-tampak-ketiduran-saat-xi-jinping-pidato-di-ktt-apec",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-as-donald-trump-tampak-ketiduran-di-ktt-apec-1795076415440_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T08:21:20+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Kemenimipas RI menerima detikcom Awards 2026 sebagai Akselerator Modernisasi Keimigrasian dan Pemasyarakatan."
+   "summary": "Presiden AS Donald Trump tertidur saat KTT APEC di Shenzen saat Xi Jinping berpidato. Trump sebelumnya memuji Xi sebagai pemimpin luar biasa."
   },
   {
-   "title": "Raih detikcom Awards 2026, Pemprov Jatim Perkuat Edukasi Pangan di Sekolah",
-   "url": "https://news.detik.com/berita/d-8761064/raih-detikcom-awards-2026-pemprov-jatim-perkuat-edukasi-pangan-di-sekolah",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/para-gubernur-raih-trofi-detikcom-awards-2026-malam-awarding-5-1795101961022_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T17:02:09+00:00",
-   "category": "INDONESIA",
+   "title": "Trump Bertemu Xi Jinping di Sela KTT APEC, Bahas Tarif hingga Selat Hormuz",
+   "url": "https://news.detik.com/internasional/d-8760097/trump-bertemu-xi-jinping-di-sela-ktt-apec-bahas-tarif-hingga-selat-hormuz",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-as-donald-trump-bertemu-dengan-presiden-china-xi-jinping-1795073710196_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T07:36:03+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Pemprov Jatim luncurkan program SIKAP untuk ketahanan pangan, mendorong sekolah memanfaatkan lahan untuk pertanian dan peternakan."
+   "summary": "Presiden AS Donald Trump bertemu Xi Jinping untuk membahas tarif dagang dan Selat Hormuz."
   },
   {
-   "title": "KPK Periksa Kepala Bea Cukai Tanjung Emas, Usut Soal Kontainer yang Disita",
-   "url": "https://news.detik.com/berita/d-8761062/kpk-periksa-kepala-bea-cukai-tanjung-emas-usut-soal-kontainer-yang-disita",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/29/gedung-merah-putih-kpk-b-beliadetikcom-1787983627166_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T16:59:03+00:00",
-   "category": "INDONESIA",
+   "title": "Bertemu di Sela KTT APEC, Trump dan Putin Bahas Perang Ukraina",
+   "url": "https://news.detik.com/internasional/d-8760016/bertemu-di-sela-ktt-apec-trump-dan-putin-bahas-perang-ukraina",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-rusia-vladimir-putin-dan-presiden-as-donald-trump-berjabat-tangan-saat-pertemuan-di-sela-sela-konferensi-tingkat-ting-1795070916888_169.jpeg?w=640&q=90",
+   "date": "2026-11-19T06:49:47+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "KPK memeriksa Kepala Bea Cukai Semarang, Khoirul Hadziq, terkait kasus importasi. Penyidikan mendalami mekanisme dan aliran uang suap di pelabuhan Tanjung Emas."
+   "summary": "Presiden AS Donald Trump dan Presiden Rusia Vladimir Putin bertemu di KTT APEC, membahas perang Ukraina. Putin keluar dengan suasana hati baik."
   },
   {
-   "title": "Raih detikcom Awards 2026, Menteri P2MI Kawal Pekerja Migran Hulu ke Hilir",
-   "url": "https://news.detik.com/berita/d-8761061/raih-detikcom-awards-2026-menteri-p2mi-kawal-pekerja-migran-hulu-ke-hilir",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/menteri-pelindungan-pekerja-migran-indonesia-p2mi-mukhtarudin-menerima-penghargaan-sebagai-tokoh-integrasi-tata-kelola-perlind-1795107271709_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T16:55:23+00:00",
-   "category": "INDONESIA",
+   "title": "Momen Ajudan Putin Bawa Koper Nuklir ke KTT APEC",
+   "url": "https://news.detik.com/internasional/d-8759900/momen-ajudan-putin-bawa-koper-nuklir-ke-ktt-apec",
+   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/koper-nuklir-1795038465726_169.png?w=640&q=90",
+   "date": "2026-11-19T06:07:16+00:00",
+   "category": "WORLD",
    "source": "detik.com",
-   "summary": "Menteri P2MI Mukhtarudin terima penghargaan Tokoh Integrasi Perlindungan Pekerja Migran di detikcom Awards 2026."
-  },
-  {
-   "title": "Kepuasan Pelanggan Tembus 84%, PAM JAYA Raih detikcom Awards",
-   "url": "https://news.detik.com/berita/d-8761059/kepuasan-pelanggan-tembus-84-pam-jaya-raih-detikcom-awards",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/pt-pam-jaya-raih-detikcom-awards-1795096095012_169.png?w=640&q=90",
-   "date": "2026-11-19T16:52:30+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "PAM JAYA tingkatkan pelayanan air minum di Jakarta dengan kepuasan pelanggan 83-84%. Raih penghargaan detikcom Awards 2026 untuk inovasi dan transparansi."
-  },
-  {
-   "title": "Sederet Tokoh Terima detikcom Awards 2026 Malam Awarding 7",
-   "url": "https://news.detik.com/foto-news/d-8761048/sederet-tokoh-terima-detikcom-awards-2026-malam-awarding-7",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/potret-tokoh-penerima-detikcom-awards-2026-malam-awarding-7-1795106646306_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T16:51:32+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Gelaran detikcom Awards 2026 terus berlanjut hingga malam hari. Berikut potret para penerima penghargaan pada sesi malam awarding 7."
-  },
-  {
-   "title": "Polisi Sita Pakaian Dalam Korban Dugaan Pemerkosaan Bupati Kupang",
-   "url": "https://news.detik.com/berita/d-8761045/polisi-sita-pakaian-dalam-korban-dugaan-pemerkosaan-bupati-kupang",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/kabid-humas-polda-ntt-kombes-henry-novika-chandra-saat-konferensi-pers-di-mapolda-ntt-kamis-19112026-foto-yufengki-briadetikba-1795086834525_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T16:50:13+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Polda NTT amankan barang bukti dalam kasus dugaan pemerkosaan Bupati Kupang Yosef Lede, berupa ponsel, bra, dan celana dalam milik korban berinisial RWM (21)."
-  },
-  {
-   "title": "Raih detikcom Awards 2026, Bamsoet Bicara soal Pengabdian kepada Negara",
-   "url": "https://news.detik.com/berita/d-8761044/raih-detikcom-awards-2026-bamsoet-bicara-soal-pengabdian-kepada-negara",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/deretan-legislator-raih-detikcom-awards-2026-malam-awarding-6-1795102536966.jpeg?w=640&q=90",
-   "date": "2026-11-19T16:50:11+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Bambang Soesatyo (Bamsoet) menerima detikcom Awards 2026 sebagai Tokoh Ketatanegaraan. Ia persembahkan penghargaan untuk Partai Golkar."
-  },
-  {
-   "title": "PAM JAYA Targetkan Cakupan Layanan Air Minum 100% pada 2029",
-   "url": "https://news.detik.com/berita/d-8761041/pam-jaya-targetkan-cakupan-layanan-air-minum-100-pada-2029",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/pt-pam-jaya-raih-detikcom-awards-1795096095012_169.png?w=640&q=90",
-   "date": "2026-11-19T16:45:45+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "PT Air Minum Jaya (PAM JAYA) raih penghargaan detikcom Awards 2026. Target 100% cakupan layanan air minum perpipaan di Jakarta pada 2029."
-  },
-  {
-   "title": "BRAN Dorong Reforma Agraria Solusi Cegah Karhutla Berulang",
-   "url": "https://news.detik.com/berita/d-8761040/bran-dorong-reforma-agraria-solusi-cegah-karhutla-berulang",
-   "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/kepala-badan-reforma-agraria-nasional-bran-dedi-prasetyo-1795106566684_169.jpeg?w=640&q=90",
-   "date": "2026-11-19T16:43:15+00:00",
-   "category": "INDONESIA",
-   "source": "detik.com",
-   "summary": "Kepala BRAN Dedi Prasetyo menekankan pentingnya evaluasi tata kelola agraria untuk mencegah karhutla. Perlindungan hak masyarakat adat jadi fokus utama."
+   "summary": "Video viral menunjukkan ajudan Putin membawa koper nuklir saat APEC. Momen langka ini menarik perhatian, mengingat sifat rahasia benda tersebut."
   }
  ]
 }
